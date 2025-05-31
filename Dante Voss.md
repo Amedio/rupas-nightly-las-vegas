@@ -59,30 +59,30 @@ new_talent: Diplomacia Negociación
 new_talent_value: 2 1
 
 Skills: Skills
-animalken: 0
+animalken: 1
 crafts: 0
-drive: 0
-etiquette: 0
-firearms: 0
+drive: 1
+etiquette: 2
+firearms: 1
 larceny: 0
 melee: 0
 performance: 0
-stealth: 0
-survival: 0
+stealth: 3
+survival: 1
 new_skill: 
 new_skill_value: 
 
 Knowledges: Knowledges
-academics: 0
-computer: 0
+academics: 1
+computer: 3
 finance: 0
-investigation: 0
+investigation: 2
 law: 0
-medicine: 0
+medicine: 1
 occult: 0
-politics: 0
-science: 0
-technology: 0
+politics: 1
+science: 2
+technology: 3
 new_knowledge: 
 new_knowledge_value: 
 
@@ -91,12 +91,12 @@ new_knowledge_value:
 Advantages: ADVANTAGES
 
 Disciplines: DISCIPLINES
-discipline1_name: 
-discipline1_value: 
-discipline2_name: 
-discipline2_value: 
-discipline3_name: 
-discipline3_value: 
+discipline1_name: Auspex
+discipline1_value: 1
+discipline2_name: Dementación
+discipline2_value: 2
+discipline3_name: Ofuscación
+discipline3_value: 1
 discipline4_name: 
 discipline4_value: 
 discipline5_name: 
@@ -105,23 +105,23 @@ discipline6_name:
 discipline6_value: 
 
 Backgrounds: BACKGROUNDS
-background1_name: 
-background1_value: 
-background2_name: 
-background2_value: 
-background3_name: 
-background3_value: 
-background4_name: 
-background4_value: 
+background1_name: Generación
+background1_value: 3
+background2_name: Identidad Alternativa
+background2_value: 2
+background3_name: Dominio
+background3_value: 1
+background4_name: Rebaño
+background4_value: 1
 background5_name: 
 background5_value: 
 background6_name: 
 background6_value: 
 
 Virtues: VIRTUES
-conscience: 1
-selfcontrol: 1
-courage: 1
+conscience: 3
+selfcontrol: 3
+courage: 4
 
                     #### MERITS / FLAWS ####
 
@@ -156,14 +156,14 @@ flaw6_value:
                     #### PATH / WILLPOWER / BLOOD ####
 
 Path: HUMANITY
-path_value: 0
+path_value: 6
 
 Willpower: WILLPOWER
-willpower_main: 0
-willpower_current: 0
+willpower_main: 10
+willpower_current: 4
 
 Bloodpool: BLOOD POOL
-blood: 0
+blood: 5
 
 Health: HEALTH
 aggravated: 
