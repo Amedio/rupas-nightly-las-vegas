@@ -163,8 +163,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -178,7 +177,7 @@
       "obsidian-5e-statblocks:Open Creature pane": false
     }
   },
-  "active": "e1d25dbfa138ae39",
+  "active": "cdb89a8ac2cabbf2",
   "lastOpenFiles": [
     "Dante Voss.md",
     "Dante Voss 1.md",
