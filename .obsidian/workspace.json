@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dante Voss.md",
+                "file": "Dante Voss 1.md",
                 "mode": "preview",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "Dante Voss"
+              "title": "Dante Voss 1"
             }
           }
         ]
@@ -180,8 +180,8 @@
   },
   "active": "e1d25dbfa138ae39",
   "lastOpenFiles": [
-    "Dante Voss 1.md",
     "Dante Voss.md",
+    "Dante Voss 1.md",
     "zz_assets/images/Dante_Voss_avatar.png",
     "Documentos/DanteVoss_Cuestionario INACAB.pdf",
     "Documentos/Cuestionario INACAB.pdf",
