@@ -1,1 +1,5 @@
-{}
+{
+  "enabledCssSnippets": [
+    "world-of-darkness-statblocks"
+  ]
+}
