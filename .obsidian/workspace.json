@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "c0112aa18a40ab79",
+        "id": "4e2fbb27742f0f31",
         "type": "tabs",
         "children": [
           {
-            "id": "f7306f0ac7ed9671",
+            "id": "01ffd280b66e1b51",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -177,11 +177,22 @@
       "obsidian-5e-statblocks:Open Creature pane": false
     }
   },
-  "active": "31184680071b504b",
+  "active": "01ffd280b66e1b51",
   "lastOpenFiles": [
     "Dante Voss.md",
+    "Documentos/DanteVoss_Cuestionario INACAB.pdf",
+    "Documentos/Cuestionario INACAB.pdf",
+    "Documentos/FAR WEST BY NIGHT.pdf",
+    "Documentos",
+    "Nueva carpeta",
+    "zz_assets/images/Dante_Voss_token.png",
+    "zz_assets/images/Dante_Voss.png",
+    "zz_assets/images",
+    "zz_assets/Nueva carpeta",
+    "zz_assets/Dante_Voss.png",
+    "zz_assets/Dante_Voss_token.png",
+    "zz_assets",
     "zz_scripts/WoDCharsheets-en.js",
-    "zz_scripts/Sin confirmar 103653.crdownload",
-    "zz_scripts"
+    "zz_scripts/Sin confirmar 103653.crdownload"
   ]
 }

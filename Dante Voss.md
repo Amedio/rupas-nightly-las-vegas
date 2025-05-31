@@ -1,5 +1,5 @@
 ```dataviewjs
-dv.execute(await dv.io.load("/zz_scripts/WoDCharsheets-en.js"))
+dv.executeJs(await dv.io.load("/zz_scripts/WoDCharsheets-en.js"))
 ```
 ```statblock
 layout: VtM v20 Vampire en
@@ -7,16 +7,16 @@ dice: true
 
                         #### GENERAL INFO ####
 
-name: 
+name: Dante Voss
 desc: 
-clan: 
-generation: 
+clan: Malkavian
+generation: 9a
 sire: 
 nature: 
 demeanor: 
-concept: 
+concept: Magnate Tecnológico
 
-img: 
+img: [[Dante_Voss_token.png]]
 img_title: 
 img_alt: 
 img_alt_title: 
