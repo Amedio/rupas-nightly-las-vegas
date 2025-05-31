@@ -14,8 +14,8 @@
               "type": "markdown",
               "state": {
                 "file": "Dante Voss 1.md",
-                "mode": "preview",
-                "source": true
+                "mode": "source",
+                "source": false
               },
               "icon": "lucide-file",
               "title": "Dante Voss 1"
@@ -180,9 +180,10 @@
   },
   "active": "e1d25dbfa138ae39",
   "lastOpenFiles": [
-    "zz_assets/images/Dante_Voss_avatar.png",
-    "Dante Voss 1.md",
     "Dante Voss.md",
+    "Dante Voss 1.md",
+    "zz_scripts/WoDCharsheets-es.js",
+    "zz_assets/images/Dante_Voss_avatar.png",
     "Documentos/DanteVoss_Cuestionario INACAB.pdf",
     "Documentos/Cuestionario INACAB.pdf",
     "Documentos/FAR WEST BY NIGHT.pdf",
@@ -195,7 +196,6 @@
     "zz_assets/Dante_Voss.png",
     "zz_assets/Dante_Voss_token.png",
     "zz_assets",
-    "zz_scripts/WoDCharsheets-en.js",
-    "zz_scripts/Sin confirmar 103653.crdownload"
+    "zz_scripts/WoDCharsheets-en.js"
   ]
 }
