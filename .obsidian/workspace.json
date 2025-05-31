@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "d914be6db791ab04",
+        "id": "d4e43dddcf66a4fc",
         "type": "tabs",
         "children": [
           {
-            "id": "7adf6d90421014de",
+            "id": "e1d25dbfa138ae39",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dante Voss 1.md",
-                "mode": "source",
+                "file": "Dante Voss.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Dante Voss 1"
+              "title": "Dante Voss"
             }
           }
         ]
@@ -178,10 +178,10 @@
       "obsidian-5e-statblocks:Open Creature pane": false
     }
   },
-  "active": "7adf6d90421014de",
+  "active": "e1d25dbfa138ae39",
   "lastOpenFiles": [
-    "Dante Voss.md",
     "Dante Voss 1.md",
+    "Dante Voss.md",
     "zz_assets/images/Dante_Voss_avatar.png",
     "Documentos/DanteVoss_Cuestionario INACAB.pdf",
     "Documentos/Cuestionario INACAB.pdf",
