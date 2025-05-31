@@ -12,11 +12,11 @@ desc:
 clan: Malkavian
 generation: 9a
 sire: 
-nature: 
-demeanor: 
+nature: Científico
+demeanor: Hedonista
 concept: Magnate Tecnológico
 
-img: [[Dante_Voss_token.png]]
+img: [[Dante_Voss_avatar.png]]
 img_title: 
 img_alt: 
 img_alt_title: 
@@ -27,36 +27,36 @@ Attributes: ATTRIBUTES
 
 Physical: Physical
 Strength: 1
-Dexterity: 1
-Stamina: 1
+Dexterity: 3
+Stamina: 2
 
 Social: Social
-Charisma: 1
-Manipulation: 1
-Appearance: 1
+Charisma: 3
+Manipulation: 3
+Appearance: 2
 
 Mental: Mental
-Perception: 1
-Intelligence: 1
-Wits: 1
+Perception: 2
+Intelligence: 5
+Wits: 3
 
                             #### ABILITIES ####
 
 Abilities: ABILITIES
 
 Talents: Talents
-alertness: 0
+alertness: 1
 athletics: 0
-awareness: 0
+awareness: 1
 brawl: 0
-empathy: 0
+empathy: 2
 expression: 0
 intimidation: 0
 leadership: 0
 streetwise: 0
-subterfuge: 0
-new_talent: 
-new_talent_value: 
+subterfuge: 1
+new_talent: Diplomacia Negociación
+new_talent_value: 2 1
 
 Skills: Skills
 animalken: 0
