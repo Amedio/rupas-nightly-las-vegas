@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "fa35281b999337bf",
+        "id": "1a4b19f561b2b2cb",
         "type": "tabs",
         "children": [
           {
-            "id": "88fe3c780a7ae442",
+            "id": "bc65e3865fd9716e",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -94,7 +94,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dante Voss.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Dante Voss"
+              "title": "Backlinks"
             }
           },
           {
@@ -113,12 +112,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Dante Voss.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Dante Voss"
+              "title": "Outgoing links"
             }
           },
           {
@@ -142,13 +140,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dante Voss.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Dante Voss"
+              "title": "Outline"
             }
           },
           {
@@ -180,9 +177,11 @@
       "obsidian-5e-statblocks:Open Creature pane": false
     }
   },
-  "active": "31184680071b504b",
+  "active": "bc65e3865fd9716e",
   "lastOpenFiles": [
-    "Untitled",
-    "Dante Voss.md"
+    "Dante Voss.md",
+    "zz_scripts/WoDCharsheets-en.js",
+    "zz_scripts/Sin confirmar 103653.crdownload",
+    "zz_scripts"
   ]
 }

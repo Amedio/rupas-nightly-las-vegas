@@ -1,3 +1,6 @@
+```dataviewjs
+dv.execute(await dv.io.load("/zz_scripts/WoDCharsheets-en.js"))
+```
 ```statblock
 layout: VtM v20 Vampire en
 dice: true
