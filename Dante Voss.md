@@ -2,7 +2,7 @@
 dv.executeJs(await dv.io.load("/zz_scripts/WoDCharsheets-en.js"))
 ```
 ```statblock
-layout: VtM v20 Vampire es
+layout: VtM v20 Vampire en
 dice: true
 
                         #### GENERAL INFO ####

@@ -2913,7 +2913,7 @@
                               ],
                               "fallback": "-",
                               "conditioned": true,
-                              "display": "Strength",
+                              "display": "Fuerza",
                               "diceCallback": "return [{ text: monster.Strength + 'd10>=6=-1sd\\|none|noform|nodice|text(' + monster.Strength +')' }]",
                               "dice": true
                             },
@@ -2924,7 +2924,7 @@
                                 "Dexterity"
                               ],
                               "fallback": "-",
-                              "display": "Dexterity",
+                              "display": "Destreza",
                               "conditioned": true,
                               "dice": true,
                               "diceCallback": "return [{ text: monster.Dexterity + 'd10>=6=-1sa\\|none|noform|nodice|text(' + monster.Dexterity +')' }]"
@@ -5334,7 +5334,7 @@
         }
       ],
       "name": "VtM v20 Vampire es",
-      "id": "cbfbe8083adb",
+      "id": "682ba8faba8b",
       "cssProperties": {
         "barColor": "#023015",
         "fontColor": "#2c313c",
