@@ -94,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Dante Voss.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Dante Voss"
             }
           },
           {
@@ -170,7 +171,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -188,7 +189,7 @@
       "obsidian-5e-statblocks:Open Creature pane": false
     }
   },
-  "active": "9d3c521e8711bd54",
+  "active": "cdb89a8ac2cabbf2",
   "lastOpenFiles": [
     "zz_assets/images/Dante_Voss_avatar.png",
     "Dante Voss.md",
