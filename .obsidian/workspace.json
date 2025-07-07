@@ -140,12 +140,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Dante Voss.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Dante Voss"
             }
           },
           {
@@ -157,9 +158,19 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
+          },
+          {
+            "id": "9d3c521e8711bd54",
+            "type": "leaf",
+            "state": {
+              "type": "DICE_ROLLER_VIEW",
+              "state": {},
+              "icon": "dices",
+              "title": "Dice Tray"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -177,12 +188,12 @@
       "obsidian-5e-statblocks:Open Creature pane": false
     }
   },
-  "active": "e1d25dbfa138ae39",
+  "active": "9d3c521e8711bd54",
   "lastOpenFiles": [
-    "Dante Voss 1.md",
-    "Dante Voss.md",
-    "zz_scripts/WoDCharsheets-es.js",
     "zz_assets/images/Dante_Voss_avatar.png",
+    "Dante Voss.md",
+    "Dante Voss 1.md",
+    "zz_scripts/WoDCharsheets-es.js",
     "Documentos/DanteVoss_Cuestionario INACAB.pdf",
     "Documentos/Cuestionario INACAB.pdf",
     "Documentos/FAR WEST BY NIGHT.pdf",
