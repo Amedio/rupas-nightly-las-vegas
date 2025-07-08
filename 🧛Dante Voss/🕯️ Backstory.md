@@ -10,4 +10,12 @@ A principios de 1912, trabajaba en un laboratorio en Boston junto a un colega, [
 
 Pero cuando empezaba a vislumbrar una gran verdad, el mismo día que pretendía mostrarle a otros colegas los avances de mis descubrimientos, mi laboratorio sufrió un desgraciado accidente y fue arrasado por un misterioso incendio en el que perdí todo. Por suerte se pudo recuperar mi novela más preciada —un ejemplar firmado de _Moby Dick_, regalo de mi madre— y las gafas de trabajo de mi padre, que usaba yo.
 
-Edwin desapareció, como si se lo hubiera tragado la tierra y comencé a ir de despacho en despacho, de reunión de financiación en reunión de financiación buscando dinero y ayuda para poder reiniciar mi investigación, intentar 
+Edwin desapareció, como si se lo hubiera tragado la tierra y comencé a ir de despacho en despacho, de reunión de financiación en reunión de financiación buscando dinero y ayuda para poder reiniciar mi investigación, intentar recuperar el tiempo que estaba perdiendo.
+
+Pero mis colegas de profesión y los que tenían el dinero que me podría ayudar se negaron en redondo de una forma que jamás había visto a hacer.
+
+Poco a poco fue corriéndose el rumor de que estaba loco y la comunidad científica comenzó a tratarme como tal convirtiéndome en alguien ajeno en sus conversaciones. Incluso cuando intentaba hablar de otra cosa que no fuera mi investigación, mis colegas me ignoraban. Me estaban dando la espalda poco a poco.
+
+En cierto modo estaba enloqueciendo, rechazado por los míos y, en segunda instancia, por los filántropos que podrían financiar mis estudios, estaba comenzando a desesperarme, además descubrí que había sido de Edwin. Al parecer, mi ex-compañero de investigación se había marchado a otra universidad en la otra punta del país. Oí comentar a un colega que Cartdridge había estado tratando con una empresa y oí el rumor de que el precio que pagó fue detener su antigua investigación.
+
+Traicionado y dolido mi cabeza comenzó a convertirse en una marea de conspiraciones y 
