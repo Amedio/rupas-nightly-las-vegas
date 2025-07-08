@@ -14,7 +14,7 @@ generation: 9a
 sire: 
 nature: Científico
 demeanor: Hedonista
-concept: Magnate Tecnológico
+concept: Paria tecnológico
 
 img: [[Dante_Voss_avatar.png]]
 img_title: 
@@ -36,7 +36,7 @@ Manipulation: 3
 Appearance: 2
 
 Mental: Mental
-Perception: 2
+Perception: 3
 Intelligence: 5
 Wits: 3
 
@@ -49,40 +49,38 @@ alertness: 1
 athletics: 0
 awareness: 1
 brawl: 0
-empathy: 2
+empathy: 1
 expression: 0
 intimidation: 0
 leadership: 0
-streetwise: 0
+streetwise: 1
 subterfuge: 1
-new_talent: Diplomacia Negociación
-new_talent_value: 2 1
 
 Skills: Skills
-animalken: 1
+animalken: 0
 crafts: 0
-drive: 1
-etiquette: 2
+drive: 2
+etiquette: 1
 firearms: 1
 larceny: 0
-melee: 0
+melee: 2
 performance: 0
 stealth: 3
-survival: 1
+survival: 0
 new_skill: 
 new_skill_value: 
 
 Knowledges: Knowledges
 academics: 1
-computer: 3
+computer: 4
 finance: 0
 investigation: 2
 law: 0
 medicine: 1
 occult: 0
 politics: 1
-science: 2
-technology: 3
+science: 3
+technology: 4
 new_knowledge: 
 new_knowledge_value: 
 
@@ -92,9 +90,9 @@ Advantages: ADVANTAGES
 
 Disciplines: DISCIPLINES
 discipline1_name: Auspex
-discipline1_value: 1
+discipline1_value: 2
 discipline2_name: Dementación
-discipline2_value: 2
+discipline2_value: 3
 discipline3_name: Ofuscación
 discipline3_value: 1
 discipline4_name: 
@@ -120,8 +118,8 @@ background6_value:
 
 Virtues: VIRTUES
 conscience: 3
-selfcontrol: 3
-courage: 4
+selfcontrol: 4
+courage: 3
 
                     #### MERITS / FLAWS ####
 
@@ -140,10 +138,10 @@ merit6_name:
 merit6_value: 
 
 Flaws: FLAWS
-flaw1_name: 
-flaw1_value: 
-flaw2_name: 
-flaw2_value: 
+flaw1_name: Vengativo
+flaw1_value: 2
+flaw2_name: Tic
+flaw2_value: 1
 flaw3_name: 
 flaw3_value: 
 flaw4_name: 
@@ -156,10 +154,10 @@ flaw6_value:
                     #### PATH / WILLPOWER / BLOOD ####
 
 Path: HUMANITY
-path_value: 6
+path_value: 7
 
 Willpower: WILLPOWER
-willpower_main: 10
+willpower_main: 4
 willpower_current: 4
 
 Bloodpool: BLOOD POOL
@@ -186,5 +184,5 @@ specialty5_name:
 specialty6_origin: 
 specialty6_name: 
 
-show_weakness: 
+show_weakness: Paranoia
 ```
