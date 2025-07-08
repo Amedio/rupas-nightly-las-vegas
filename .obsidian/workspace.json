@@ -11,12 +11,14 @@
             "id": "fa6c3207b5bb8010",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Documentos/DanteVoss_Cuestionario INACAB.pdf"
+                "file": "🧛Dante Voss/🕯️ Backstory.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "DanteVoss_Cuestionario INACAB"
+              "icon": "lucide-file",
+              "title": "🕯️ Backstory"
             }
           }
         ]
@@ -189,9 +191,9 @@
   },
   "active": "fa6c3207b5bb8010",
   "lastOpenFiles": [
+    "Documentos/DanteVoss_Cuestionario INACAB.pdf",
     "🧛Dante Voss/🕯️ Backstory.md",
     "🧛Dante Voss/🧛Dante Voss.md",
-    "Documentos/DanteVoss_Cuestionario INACAB.pdf",
     "🧛Dante Voss/📜 Fragmentos de mi memoria.md",
     "🧛Dante Voss",
     "zz_assets/images/Dante_Voss_avatar.png",
