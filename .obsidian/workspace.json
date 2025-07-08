@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dante Voss.md",
+                "file": "Dante Voss/📜 Fragmentos de mi memoria.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Dante Voss"
+              "title": "📜 Fragmentos de mi memoria"
             }
           }
         ]
@@ -189,10 +189,12 @@
       "obsidian-5e-statblocks:Open Creature pane": false
     }
   },
-  "active": "cdb89a8ac2cabbf2",
+  "active": "e1d25dbfa138ae39",
   "lastOpenFiles": [
+    "Dante Voss/Dante Voss.md",
+    "Dante Voss/📜 Fragmentos de mi memoria.md",
+    "Dante Voss",
     "zz_assets/images/Dante_Voss_avatar.png",
-    "Dante Voss.md",
     "Dante Voss 1.md",
     "zz_scripts/WoDCharsheets-es.js",
     "Documentos/DanteVoss_Cuestionario INACAB.pdf",
@@ -206,7 +208,6 @@
     "zz_assets/Nueva carpeta",
     "zz_assets/Dante_Voss.png",
     "zz_assets/Dante_Voss_token.png",
-    "zz_assets",
-    "zz_scripts/WoDCharsheets-en.js"
+    "zz_assets"
   ]
 }
