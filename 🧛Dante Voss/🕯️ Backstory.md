@@ -36,8 +36,14 @@ Fue entonces cuando Sophia se levantó de su asiento y se aproximó a mi, se inc
 
 *"¿Quiere vivir para retomar su investigación? ¿O morir olvidado, con sus hallazgos reducidos a cenizas?"*
 
-Acepté sin entender el precio que pagaría con un
+Acepté sin entender el precio que pagaría con una frase:
+
+*"No voy a ser un insecto pisoteado."*
 
 Sentí el frío de sus labios sobre mi cuello. Poco a poco sentía como los sentidos se me escapaban, me estaba desmayando y solo alcancé a ver la silueta de Sophia al apartarse de mí y pude sentir como un líquido goteaba en mis labios introduciéndose en mi boca. Recuerdo que mi cabeza decía algo así como *Más vino no, por favor*.
 
-Aquella noche, un **21 de marzo de 1912**, fue cuando Sophia me Abrazó en su mansión, asegurándome que, tarde o temprano, podría recomponer las piezas y completar mi obra
+Aquella noche, un **21 de marzo de 1912**, fue cuando Sophia me Abrazó en su mansión, asegurándome que, tarde o temprano, podría recomponer las piezas y completar mi obra.
+
+Más de un siglo después, he aprendido a moverme en las sombras, rodeado de los míos, de humanos y de máquinas, dirigiendo mi propio grupo de hackers bajo al que llamamos [[Whisper Grid]], mientras los patrones se hacen cada vez más claros.
+
+Sophia sigue observándome, con esa sonrisa serena, como si ya supiera el final de mi historia. Pero todavía me queda mucho por descubrir.
