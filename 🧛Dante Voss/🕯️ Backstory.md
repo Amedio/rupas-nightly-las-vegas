@@ -44,6 +44,8 @@ Sentí el frío de sus labios sobre mi cuello. Poco a poco sentía como los sent
 
 Aquella noche, un **21 de marzo de 1912**, fue cuando Sophia me Abrazó en su mansión, asegurándome que, tarde o temprano, podría recomponer las piezas y completar mi obra.
 
-Más de un siglo después, he aprendido a moverme en las sombras, rodeado de los míos, de humanos y de máquinas, dirigiendo mi propio grupo de hackers bajo al que llamamos [[Whisper Grid]], mientras los patrones se hacen cada vez más claros.
+Más de un siglo después, he aprendido a moverme en las sombras, rodeado de los míos, de humanos y de máquinas.
+
+Formé mi propio grupo de hackers al que decidimos llamar [[Whisper Grid]]. Mis tres fieles compañeres, [[Zoë]], [[Markus]] y [[Kai]] me ayudan en esta etapa moderna en la que he podido acercarme algo más a descubrir quien estuvo detrás de la destrucción de mi mundo en 1912.
 
 Sophia sigue observándome, con esa sonrisa serena, como si ya supiera el final de mi historia. Pero todavía me queda mucho por descubrir.
