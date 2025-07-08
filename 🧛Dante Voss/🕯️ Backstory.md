@@ -18,4 +18,14 @@ Poco a poco fue corriéndose el rumor de que estaba loco y la comunidad científ
 
 En cierto modo estaba enloqueciendo, rechazado por los míos y, en segunda instancia, por los filántropos que podrían financiar mis estudios, estaba comenzando a desesperarme, además descubrí que había sido de Edwin. Al parecer, mi ex-compañero de investigación se había marchado a otra universidad en la otra punta del país. Oí comentar a un colega que Cartdridge había estado tratando con una empresa y oí el rumor de que el precio que pagó fue detener su antigua investigación.
 
-Traicionado y dolido mi cabeza comenzó a convertirse en una marea de conspiraciones y 
+Traicionado y dolido mi cabeza comenzó a convertirse en una marea de conspiraciones y paranoia ¿Quién estaba detrás de todo aquello? Con algo más de fuerza, continué buscando financiación para mi investigación.
+
+Me encontraba ya a las puertas de ser expulsado de mi comunidad científica cuando, en una reunión en el club, donde diversos filántropos se reunían con científicos e ingenieros para decidir donde pondrían su dinero en la próxima temporada, donde conocí a [[Sophia Lenague]].
+
+Era una mujer elegante, distante y con un tono pálido en la piel como la luna misma. Fue la única que se me acercó aquella noche. Ya hacía diversas reuniones en las que todo el mundo parecía preferir hacer ver como que no existía.
+
+Me escuchó como nadie lo había hecho jamás y me invitó a reunirme con ella de forma privada en su casa, la noche siguiente.
+
+*"Venga a mi casa mañana, señor Voss. Allí podremos hablar sin distracciones."*
+
+No lo dude ni un instante. La noche siguiente estábamos cenando en la penumbra silenciosa de su salón, entre cortinas de terciopelo. 
