@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🧛Dante Voss/🕯️ Backstory.md",
+                "file": "Coterie/🧛Dante Voss/🕯️ Backstory.md",
                 "mode": "source",
                 "source": false
               },
@@ -189,13 +189,15 @@
       "obsidian-5e-statblocks:Open Creature pane": false
     }
   },
-  "active": "fa6c3207b5bb8010",
+  "active": "31184680071b504b",
   "lastOpenFiles": [
+    "PNJs",
+    "Coterie",
+    "Coterie/🧛Dante Voss/📜 Fragmentos de mi memoria.md",
+    "Coterie/🧛Dante Voss/🕯️ Backstory.md",
     "Documentos/DanteVoss_Cuestionario INACAB.pdf",
-    "🧛Dante Voss/🕯️ Backstory.md",
-    "🧛Dante Voss/🧛Dante Voss.md",
-    "🧛Dante Voss/📜 Fragmentos de mi memoria.md",
-    "🧛Dante Voss",
+    "Coterie/🧛Dante Voss/🧛Dante Voss.md",
+    "Coterie/🧛Dante Voss",
     "zz_assets/images/Dante_Voss_avatar.png",
     "Dante Voss 1.md",
     "zz_scripts/WoDCharsheets-es.js",
@@ -208,7 +210,6 @@
     "zz_assets/images",
     "zz_assets/Nueva carpeta",
     "zz_assets/Dante_Voss.png",
-    "zz_assets/Dante_Voss_token.png",
-    "zz_assets"
+    "zz_assets/Dante_Voss_token.png"
   ]
 }
