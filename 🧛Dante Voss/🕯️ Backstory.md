@@ -28,4 +28,16 @@ Me escuchó como nadie lo había hecho jamás y me invitó a reunirme con ella d
 
 *"Venga a mi casa mañana, señor Voss. Allí podremos hablar sin distracciones."*
 
-No lo dude ni un instante. La noche siguiente estábamos cenando en la penumbra silenciosa de su salón, entre cortinas de terciopelo. 
+No lo dude ni un instante. La noche siguiente estábamos cenando en la penumbra silenciosa de su salón, entre cortinas de terciopelo.
+
+Ella comía de forma recatada y yo acompañaba, aunque alimentándome algo más que ella. Bebimos vino y, en un momento dado, sentí como la cabeza se me iba, no recordaba haber bebido tanto.
+
+Fue entonces cuando Sophia se levantó de su asiento y se aproximó a mi, se inclinó hacia mi cuello y pude sentir su frío aliento rozándome la piel.
+
+*"¿Quiere vivir para retomar su investigación? ¿O morir olvidado, con sus hallazgos reducidos a cenizas?"*
+
+Acepté sin entender el precio que pagaría con un
+
+Sentí el frío de sus labios sobre mi cuello. Poco a poco sentía como los sentidos se me escapaban, me estaba desmayando y solo alcancé a ver la silueta de Sophia al apartarse de mí y pude sentir como un líquido goteaba en mis labios introduciéndose en mi boca. Recuerdo que mi cabeza decía algo así como *Más vino no, por favor*.
+
+Aquella noche, un **21 de marzo de 1912**, fue cuando Sophia me Abrazó en su mansión, asegurándome que, tarde o temprano, podría recomponer las piezas y completar mi obra
