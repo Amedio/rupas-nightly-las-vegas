@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "c95a51154ed046d5",
+        "id": "5ab8ac5646db591f",
         "type": "tabs",
         "children": [
           {
-            "id": "2acf75b4e8191dec",
+            "id": "d62d8cf92a60ab49",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "🕸️ Redes & Círculos/🕸️ Redes & Círculos.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "🕸️ Redes & Círculos"
+              "title": "New tab"
             }
           }
         ]
@@ -190,7 +186,7 @@
       "obsidian-5e-statblocks:Open Creature pane": false
     }
   },
-  "active": "2acf75b4e8191dec",
+  "active": "cdb89a8ac2cabbf2",
   "lastOpenFiles": [
     "🎭 El Resto/🎭 El Resto.md",
     "🕸️ Redes & Círculos/🕸️ Redes & Círculos.md",
