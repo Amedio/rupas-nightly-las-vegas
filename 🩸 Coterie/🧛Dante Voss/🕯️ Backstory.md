@@ -46,6 +46,6 @@ Aquella noche, un **21 de marzo de 1912**, fue cuando Sophia me Abrazó en su ma
 
 Más de un siglo después, he aprendido a moverme en las sombras, rodeado de los míos, de humanos y de máquinas.
 
-Formé mi propio grupo de hackers al que decidimos llamar [[Whisper Grid]]. Mis tres fieles compañeres, [[Zoë Wallace|Zoë]], [[Markus]] y [[Ellis Faye|Ellis]] me ayudan en esta etapa moderna en la que he podido acercarme algo más a descubrir quien estuvo detrás de la destrucción de mi mundo en 1912.
+Formé mi propio grupo de hackers al que decidimos llamar [[Whisper Grid]]. Mis tres fieles compañeres, [[Zoë Wallace|Zoë]], [[Markus Delgado|Markus]] y [[Ellis Faye|Ellis]] me ayudan en esta etapa moderna en la que he podido acercarme algo más a descubrir quien estuvo detrás de la destrucción de mi mundo en 1912.
 
 Sophia sigue observándome, con esa sonrisa serena, como si ya supiera el final de mi historia. Pero todavía me queda mucho por descubrir.

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🩸 Coterie/🧛Dante Voss/🕯️ Backstory.md",
+                "file": "👥 El Resto/Sophia Lenague.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "🕯️ Backstory"
+              "title": "Sophia Lenague"
             }
           }
         ]
@@ -94,17 +94,17 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dante Voss.md",
+                "file": "👥 El Resto/Sophia Lenague.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Dante Voss"
+              "title": "Backlinks for Sophia Lenague"
             }
           },
           {
@@ -113,11 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "👥 El Resto/Sophia Lenague.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from Sophia Lenague"
             }
           },
           {
@@ -170,8 +171,7 @@
               "title": "Dice Tray"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
@@ -191,19 +191,19 @@
   },
   "active": "8d8b203b5a974637",
   "lastOpenFiles": [
-    "👥 El Resto/Ellis Faye.md",
-    "👥 El Resto/👥 El Resto.md",
+    "👥 El Resto/Nathaniel Voss.md",
     "👥 El Resto/Markus Delgado.md",
-    "🩸 Coterie/🧛Dante Voss/🕯️ Backstory.md",
+    "👥 El Resto/Ellis Faye.md",
+    "👥 El Resto/Eleanor Whitford Voss.md",
+    "👥 El Resto/Sophia Lenague.md",
     "👥 El Resto/Zoë Wallace.md",
+    "👥 El Resto/Edwin Cartdridge.md",
+    "🩸 Coterie/🧛Dante Voss/🕯️ Backstory.md",
+    "👥 El Resto/👥 El Resto.md",
     "🩸 Coterie/🧛Dante Voss/🧛Dante Voss.md",
     "🕸️ Redes & Círculos/Whisper Grid.md",
     "🕸️ Redes & Círculos/🕸️ Redes & Círculos.md",
     "🕸️ Redes & Círculos",
-    "👥 El Resto/Edwin Cartdridge.md",
-    "👥 El Resto/Sophia Lenague.md",
-    "👥 El Resto/Eleanor Whitford Voss.md",
-    "👥 El Resto/Nathaniel Voss.md",
     "👥 El Resto",
     "🩸 Coterie",
     "🩸 Coterie/🧛Dante Voss/📜 Fragmentos de mi memoria.md",
