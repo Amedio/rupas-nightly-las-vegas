@@ -7,7 +7,7 @@ tags:
   - whisper_grid
   - bestie
 ---
-> [!quote] *“Frase o cita breve que resuma su carácter, lema, o una impresión que causa.”*
+> [!quote] *“Todos los sistemas sangran, solo hay que saber por dónde pinchar.”*
 ## 📃Información
 **🏷 Pronombres:** Ella
 **👤 Alias / Apodo:** Spleen
@@ -21,4 +21,4 @@ Irónica, directa, de temperamento fuerte. Tiene un sentido del humor ácido y p
 ## 🔗 Relación con Dante
 Conoce a Dante desde hace unos años cuando este publicitó su grupo en la red para reclutar a gente. Es la primera que se unió a [[Whisper Grid]] y es con quien más confianza tiene Dante. Es posible que Dante esté pensando en hacerla un ghoul, le tiene un especial cariño
 ## 📝 Notas adicionales
-Piel oscura, cabello rizado recogido en moño alto, ojos castaños intensos. Suele llevar chaquetas militares o bomber y botas robustas.
+Suele vestir de negro, mezclando ropa cómoda con toques góticos y detalles retrofuturistas. Lleva las uñas pintadas de azul oscuro, tiene un tatuaje de un código binario en la nuca y siempre va con auriculares colgando aunque no estén enchufados. En ocasiones recita poesía francesa bajo la respiración cuando se concentra en hackear. El apodo “Spleen” viene de su afición a Baudelaire y su tendencia al spleen emocional.
