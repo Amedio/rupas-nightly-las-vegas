@@ -1,3 +1,7 @@
+---
+aliases:
+  - Dante
+---
 ```dataviewjs
 dv.executeJs(await dv.io.load("/zz_scripts/WoDCharsheets-en.js"))
 ```
