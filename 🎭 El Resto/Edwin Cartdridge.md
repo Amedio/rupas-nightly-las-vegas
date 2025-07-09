@@ -14,7 +14,7 @@ tags:
 **📍 Origen:** Providence, Rhode Island (EE.UU.)
 **👥 Raza / Condición:** Blancx
 **🎭 Rol / Ocupación:** Científico
-**📅 Edad:** 35 
+**📅 Edad:** 35 (Muerto ¿?)
 **🧑‍💻 Especialidad o habilidad destacada:** {{specialty}}
 ## 🧠 Personalidad
 
