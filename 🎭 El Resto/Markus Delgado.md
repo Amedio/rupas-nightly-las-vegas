@@ -26,4 +26,4 @@ Markus ve a Dante como un genio con cierta tendencia al caos, alguien que necesi
 
 ## 📝 Notas adicionales
 
-Vive pegado a un portátil ultraligero lleno de pegatinas de hardware vintage. Siempre impecable, suele vestir camisas oscuras y gafas de montura fina. A veces murmura comandos mientras piensa, como si su mente fuera un terminal. Su apodo _Bitrate_ se lo ganó por su obsesión con optimizar hasta la última línea de código para velocidad y rendimiento.
+Vive pegado a un portátil ultraligero lleno de pegatinas de hardware vintage. Siempre impecable, suele vestir camisas oscuras y gafas de montura fina. A veces murmura comandos mientras piensa, como si su mente fuera un terminal.
