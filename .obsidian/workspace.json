@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🎭 El Resto/🎭 El Resto.md",
+                "file": "🕸️ Redes & Círculos/🕸️ Redes & Círculos.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "🎭 El Resto"
+              "title": "🕸️ Redes & Círculos"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🎭 El Resto/🎭 El Resto.md",
+                "file": "🕸️ Redes & Círculos/🕸️ Redes & Círculos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 🎭 El Resto"
+              "title": "Backlinks for 🕸️ Redes & Círculos"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🎭 El Resto/🎭 El Resto.md",
+                "file": "🕸️ Redes & Círculos/🕸️ Redes & Círculos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 🎭 El Resto"
+              "title": "Outgoing links from 🕸️ Redes & Círculos"
             }
           },
           {
@@ -192,8 +192,8 @@
   },
   "active": "2acf75b4e8191dec",
   "lastOpenFiles": [
-    "🕸️ Redes & Círculos/🕸️ Redes & Círculos.md",
     "🎭 El Resto/🎭 El Resto.md",
+    "🕸️ Redes & Círculos/🕸️ Redes & Círculos.md",
     "🩸 Coterie/🩸 Coterie.md",
     "zz_assets/templates/Plantilla PJ.md",
     "zz_assets/templates/Plantilla PNJ.md",
