@@ -7,4 +7,6 @@
 ## Vampiros
 - [[Sophia Lenague]]: Sire de [[🧛Dante Voss]]
 ## Rebaño
-- [[]]
+- [[Zoë Wallace]]: Miembro de [[Whisper Grid]]
+- [[Markus Delgado]]: Miembro de [[Whisper Grid]]
+- [[Ellis Faye]]: Miembro de [[Whisper Grid]]
