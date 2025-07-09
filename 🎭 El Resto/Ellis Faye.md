@@ -9,12 +9,12 @@ tags:
 > [!quote] _“Nada es fijo. Todo puede ser desmontado, si sabes dónde tocar.”_
 ## 📃Información
 
-**🏷 Pronombres:** elle / they  
-**👤 Alias / Apodo:** Spectre  
-**📍 Origen:** Barcelona, España  
-**👥 Raza / Condición:** Humane  
-**🎭 Rol / Ocupación:** Hacker creativo y disruptivo, activista digital  
-**📅 Edad:** 26 años  
+**🏷 Pronombres:** elle
+**👤 Alias / Apodo:** Spectre
+**📍 Origen:** Barcelona, España
+**👥 Raza / Condición:** Caucásicx
+**🎭 Rol / Ocupación:** Hacker creative y disruptive, activista digital
+**📅 Edad:** 26 años
 **🧑‍💻 Especialidad o habilidad destacada:** Ingeniería inversa, exploits imprevistos y creatividad para romper sistemas.
 ## 🧠 Personalidad
 

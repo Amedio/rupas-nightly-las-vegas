@@ -9,12 +9,12 @@ tags:
 > [!quote] _“Cada bit cuenta. Y cada bit tiene dueño.”_
 ## 📃Información
 
-**🏷 Pronombres:** él / he  
-**👤 Alias / Apodo:** Root  
-**📍 Origen:** Los Ángeles, California (EE.UU.)  
-**👥 Raza / Condición:** Hispanoamericano  
-**🎭 Rol / Ocupación:** Hacker técnico especializado en redes y criptografía  
-**📅 Edad:** 31 años  
+**🏷 Pronombres:** él
+**👤 Alias / Apodo:** Root
+**📍 Origen:** Los Ángeles, California (EE.UU.)
+**👥 Raza / Condición:** Hispanoamericano
+**🎭 Rol / Ocupación:** Hacker técnico especializado en redes y criptografía
+**📅 Edad:** 31 años
 **🧑‍💻 Especialidad o habilidad destacada:** Romper cifrados, blindar sistemas y optimizar transferencias de datos.
 ## 🧠 Personalidad
 
