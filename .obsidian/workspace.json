@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🎭 El Resto/Zoë Wallace.md",
+                "file": "zz_assets/templates/Plantilla PNJ.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Zoë Wallace"
+              "title": "Plantilla PNJ"
             }
           },
           {
@@ -206,8 +206,8 @@
   },
   "active": "d62d8cf92a60ab49",
   "lastOpenFiles": [
-    "zz_assets/templates/Plantilla PNJ.md",
     "🎭 El Resto/Zoë Wallace.md",
+    "zz_assets/templates/Plantilla PNJ.md",
     "🎭 El Resto/🎭 El Resto.md",
     "🩸 Coterie/Dante Voss/🕯️ Backstory.md",
     "🕸️ Redes & Círculos/🕸️ Redes & Círculos.md",
