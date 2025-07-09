@@ -23,3 +23,4 @@ Una mujer cálida, dedicada a sus alumnos y a su hijo. Idealista para su época,
 Es su madre, la relación entre ambos fue buena, pero la vida académica y su descenso a la "locura" los apartaron de alguna manera, tras el Abrazo no tuvieron contacto aunque Dante visitaba su casa y vigilaba a sus padres de lejos.
 ## 📝 Notas adicionales
 
+Le regaló un ejemplar de Moby Dick firmado por el autor.
