@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🩸 Coterie/Dante Voss/🕯️ Backstory.md",
+                "file": "zz_assets/templates/Plantilla Sesión.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "🕯️ Backstory"
+              "title": "Plantilla Sesión"
             }
           }
         ]
@@ -192,6 +192,11 @@
   },
   "active": "666d6369bf8b1896",
   "lastOpenFiles": [
+    "Sesiones/Sesión 1 - Rags To Riches.md",
+    "zz_assets/templates/Plantilla Sesión.md",
+    "Sesiones/Sesión 0.5.md",
+    "🩸 Coterie/Dante Voss/🕯️ Backstory.md",
+    "Sesiones",
     "🩸 Coterie/🩸 Coterie.md",
     "🎭 El Resto/Zoë Wallace.md",
     "🎭 El Resto/Sophia Lenague.md",
@@ -199,7 +204,6 @@
     "🎭 El Resto/Eleanor Whitford Voss.md",
     "🎭 El Resto/Edwin Cartdridge.md",
     "🩸 Coterie/Dante Voss/📜 Fragmentos de mi memoria.md",
-    "🩸 Coterie/Dante Voss/🕯️ Backstory.md",
     "🎭 El Resto/Ellis Faye.md",
     "🎭 El Resto/Markus Delgado.md",
     "zz_assets/templates/Plantilla PNJ.md",
@@ -221,7 +225,6 @@
     "zz_scripts/WoDCharsheets-es.js",
     "Documentos/Cuestionario INACAB.pdf",
     "Documentos/FAR WEST BY NIGHT.pdf",
-    "Documentos",
     "zz_assets/images/Dante_Voss_token.png",
     "zz_assets/images/Dante_Voss.png",
     "zz_assets/Dante_Voss.png",
