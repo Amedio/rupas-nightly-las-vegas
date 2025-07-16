@@ -48,11 +48,9 @@ Más de un siglo después, he aprendido a moverme en las sombras, rodeado de los
 
 Hace unos 20 años llegué a Las Vegas, buscando a aquellos que tiraron por tierra mi carrera. Se decía que en Rachel, existía un centro de investigación con radiotelescopios. La verdad es que pensé en instalarme cerca del lugar, pero Las Vegas es un lugar más grande donde mi presencia quedaría más diluida y podría investigar más a mis anchas.
 
-La noche que llegué era ya casi la hora del amanecer y me colé en un edificio un poco descuidado. Tenía un cybercafé en los bajos y el resto del edificio parecía abandonado. Me instalé temporalmente en un o de aquellos pisos. La noche siguiente el ruido de gente accediendo al piso inferior llamó mi atención.
+La noche que llegué era ya casi la hora del amanecer y me colé en un edificio un poco descuidado. Tenía un cybercafé en los bajos y el resto del edificio parecía abandonado. Me instalé temporalmente en un o de aquellos pisos. La noche siguiente me percaté de que el cybercafé no parecía tan "muerto" como antes de que amaneciera. Parecía más un local nocturno que un lugar donde frikis de muchas partes de Las Vegas se reunían para jugar a videojuegos... era el lugar perfecto donde poder alimentarme con cierta facilidad.
 
-Fue ahí cuando descubrí que aquella planta bajo la que había descansado reunía a tres loques por los ordenadores que estaban demasiado absortos con su trabajo. [[Zoë Wallace|Zoë]], [[Markus Delgado|Markus]] y [[Ellis Faye|Ellis]] habían creado lo que elles llamaban [[Whisper Grid]] un pequeño grupo de hackers que pretendían explotar a las grandes empresas a través de tu trabajo colándose tras sus sistemas de cyberseguridad.
-
-Mi conocimiento adquirido en la materia a lo largo de los años ayudó a que me hiciera un hueco entre ellos y a que confiasen en mí lo suficiente para que me sirvieran de sustento
+Hace una década conocí en ese mismo lugar a tres expertes en cyberseguridad que me facilitaron todavía más mi alimento. Les gustaba decir que peleaban contra las grandes corporaciones desde sus ordenadores, aprovechaban sus brechas de seguridad y las exponían al mundo y estaban demasiado absortes en lo suyo como para que 
 
 Formé mi propio grupo de hackers al que decidimos llamar [[Whisper Grid]]. Mis tres fieles compañeres, [[Zoë Wallace|Zoë]], [[Markus Delgado|Markus]] y [[Ellis Faye|Ellis]] me ayudan en esta etapa moderna en la que he podido acercarme algo más a descubrir quien estuvo detrás de la destrucción de mi mundo en 1912.
 
