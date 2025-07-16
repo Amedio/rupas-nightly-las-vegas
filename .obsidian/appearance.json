@@ -1,5 +1,6 @@
 {
   "enabledCssSnippets": [
-    "world-of-darkness-statblocks"
+    "world-of-darkness-statblocks",
+    "timeline-snippet"
   ]
 }

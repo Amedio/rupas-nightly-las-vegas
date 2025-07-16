@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🩸 Coterie/Dante Voss/Untitled.md",
-                "mode": "source",
-                "source": false
+                "file": "🩸 Coterie/Dante Voss/Cronología.md",
+                "mode": "preview",
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "Cronología"
             }
           }
         ]
@@ -193,7 +193,7 @@
   "active": "666d6369bf8b1896",
   "lastOpenFiles": [
     "🩸 Coterie/Dante Voss/🕯️ Backstory.md",
-    "🩸 Coterie/Dante Voss/Untitled.md",
+    "🩸 Coterie/Dante Voss/Cronología.md",
     "🎭 El Resto/Zoë Wallace.md",
     "🩸 Coterie/Dante Voss/Dante Voss.md",
     "Sesiones/Sesión 0.5.md",
