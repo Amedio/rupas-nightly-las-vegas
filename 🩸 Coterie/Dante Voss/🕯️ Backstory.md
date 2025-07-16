@@ -46,7 +46,7 @@ Aquella noche, un **21 de marzo de 1912**, fue cuando Sophia me Abrazó en su ma
 
 Más de un siglo después, he aprendido a moverme en las sombras, rodeado de los míos, de humanos y de máquinas.
 
-Hace unos 20 años llegué a Las Vegas, buscando a aquellos que tiraron por tierra mi carrera. Se decía que 
+Hace unos 20 años llegué a Las Vegas, buscando a aquellos que tiraron por tierra mi carrera. Se decía que en Rachel, había 
 
 Formé mi propio grupo de hackers al que decidimos llamar [[Whisper Grid]]. Mis tres fieles compañeres, [[Zoë Wallace|Zoë]], [[Markus Delgado|Markus]] y [[Ellis Faye|Ellis]] me ayudan en esta etapa moderna en la que he podido acercarme algo más a descubrir quien estuvo detrás de la destrucción de mi mundo en 1912.
 
