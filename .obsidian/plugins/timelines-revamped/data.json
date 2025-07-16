@@ -15,7 +15,7 @@
   },
   "notePreviewOnHover": false,
   "showEventCounter": false,
-  "sortDirection": true,
+  "sortDirection": false,
   "timelineTag": "timeline",
   "maxDigits": "5",
   "verticalTimelineDateDisplayFormat": ""

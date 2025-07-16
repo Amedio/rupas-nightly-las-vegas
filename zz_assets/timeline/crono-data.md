@@ -2,17 +2,16 @@
 tags:
   - timeline
   - now
-  - test
 ---
 
 <div class="ob-timelines"
 	data-title="Nacimiento"
-	data-start-date="1879-11-14">
+	data-start-date="1879-11-14-00">
 	Nacimiento
 </div>
 
 <div class="ob-timelines"
 	data-title="Abrazo"
-	data-start-date="1912-03-21">
+	data-start-date="1912-03-21-00">
 	Abrazo
 </div>

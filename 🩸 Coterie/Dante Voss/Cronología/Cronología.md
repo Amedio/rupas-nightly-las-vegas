@@ -1,4 +1,4 @@
 ```ob-timeline
-tags=now;test
+tags=now
 ```
 
