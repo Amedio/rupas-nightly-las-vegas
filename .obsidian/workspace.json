@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🩸 Coterie/Dante Voss/🕯️ Backstory.md",
+                "file": "zz_assets/timeline/crono-data.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "🕯️ Backstory"
+              "title": "crono-data"
             }
           }
         ]
@@ -194,9 +194,9 @@
   },
   "active": "43186cde743d8411",
   "lastOpenFiles": [
+    "🩸 Coterie/Dante Voss/🕯️ Backstory.md",
     "🩸 Coterie/Dante Voss/Cronología.md",
     "zz_assets/timeline/crono-data.md",
-    "🩸 Coterie/Dante Voss/🕯️ Backstory.md",
     "🩸 Coterie/Dante Voss/Cronología/Cronología.md",
     "zz_assets/timeline",
     "🩸 Coterie/Dante Voss/Cronología/Abrazo.md",
