@@ -52,10 +52,10 @@ La noche que llegué era ya casi la hora del amanecer y me colé en un edificio 
 
 Hace una década conocí en ese mismo lugar a tres expertes en cyberseguridad que me facilitaron todavía más mi alimento. Les gustaba decir que peleaban contra las grandes corporaciones desde sus ordenadores, aprovechaban sus brechas de seguridad y las exponían al mundo y estaban demasiado absortes en lo suyo como para que se planteasen siquiera mi naturaleza, ellos eran [[Zoë Wallace|Zoë]], [[Ellis Faye|Ellis]] y [[Markus Delgado|Markus]].
 
-Poco a poco fui ganándome su confianza y conseguí que subieran noche tras noche a uno de los pisos superiores de aquel edificio, bajo la planta en la que me había instalado. Quiero pensar que el Principe se encarga de mantenerlo tal cual estaba, por respeto a mi dominio que había creado.
+Poco a poco fui ganándome su confianza y conseguí que subieran noche tras noche a uno de los pisos superiores de aquel edificio, bajo la planta en la que me había instalado. Quiero pensar que el Príncipe se encarga de mantenerlo tal cual estaba, por respeto a mi dominio que había creado.
 
-Una vez 
+Una vez ahí, los azucé para que creasen un arraigo y ahí nació [[Whisper Grid]]. Gracias a ello he podido tener la facilidad de rastrear las comunicaciones del lugar, con mi foco puesto en Rachel, sin tener que preocuparme demasiado por mi alimentación.
 
-Formé mi propio grupo de hackers al que decidimos llamar [[Whisper Grid]]. Mis tres fieles compañeres, [[Zoë Wallace|Zoë]], [[Markus Delgado|Markus]] y [[Ellis Faye|Ellis]] me ayudan en esta etapa moderna en la que he podido acercarme algo más a descubrir quien estuvo detrás de la destrucción de mi mundo en 1912.
+Aunque todavía no he encontrado nada, creo que estoy cada vez más cerca de descubrir quien estuvo detrás de la destrucción de mi mundo en 1912.
 
 Sophia sigue observándome, con esa sonrisa serena, como si ya supiera el final de mi historia. Pero todavía me queda mucho por descubrir.
