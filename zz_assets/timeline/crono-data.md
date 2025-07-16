@@ -19,7 +19,7 @@ tags:
 <div class="ob-timelines"
 	data-title="Investigación"
 	data-start-date="1900-03-01-00"
-	data-end-date="1910-01-24">
+	data-end-date="1910-01-24-00">
 	Trabajo en la universidad en un laboratorio junto a un compañero para desarrollar mejoras en las líneas de telégrafo y volverlas más eficientes.
 </div>
 
@@ -43,12 +43,19 @@ tags:
 
 <div class="ob-timelines"
 	data-title="Rechazo"
-	data-start-date="1910-01-26-00">
+	data-start-date="1910-01-26-00"
+	data-end-date="1912-03-21-00">
 	La comunidad científica comienza a darme la espalda cuando demando su ayuda para reiniciar mis investigaciones y les planteo la posibilidad de que las líneas de telégrafo inactivas estén siendo usadas para mandar información cifrada.
+</div>
+
+<div class="ob-timelines"
+	data-title="Encuentro con Sophia Lenague"
+	data-start-date="1912-03-20-00">
+	En un evento creado para que financiadores y científicos se conozcan y puedan hablar de donde poder poner el dinero para investigaciones, conozco a Sophia Lenague que me invita a reunirme con ella en su mansión.
 </div>
 
 <div class="ob-timelines"
 	data-title="Abrazo"
 	data-start-date="1912-03-21-00">		
-	Tras una reunión con [[Sophia Lenague]] en la que hablamos acerca el proyecto que había perdido hacía un par de años, esta se alimentó de mí hasta dejarme seco para luego entregarme su sangre y así contraje la maldición de Malkav y pasé a formar parte de los Vástagos. Me convertí en la criatura nocturna que soy ahora.
+	Tras una reunión con Sophia Lenague en la que hablamos acerca el proyecto que había perdido hacía un par de años, esta se alimentó de mí hasta dejarme seco para luego entregarme su sangre y así contraje la maldición de Malkav y pasé a formar parte de los Vástagos. Me convertí en la criatura nocturna que soy ahora.
 </div>
