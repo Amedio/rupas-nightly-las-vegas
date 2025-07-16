@@ -6,7 +6,7 @@ Mi mente me llevó a estudiar en Harvard, donde pronto despunté en el incipient
 
 Durante mis investigaciones descubrí ciertas anomalías en líneas muertas de telegrafía, unas extrañas señales que parecían emitirse en lo que parecía un patrón y comencé a estudiarlas para conocer su origen.
 
-A principios de 1912, trabajaba en un laboratorio en Boston junto a un colega, [[Edwin Cartdridge]], investigando esas anomalías en las señales telegráficas. Mi teoría era revolucionaria: esas interferencias no eran casuales, sino mensajes cifrados transmitidos por personas o entidades sin identificar.
+A principios de 1910, trabajaba en un laboratorio en Boston junto a un colega, [[Edwin Cartdridge]], investigando esas anomalías en las señales telegráficas. Mi teoría era revolucionaria: esas interferencias no eran casuales, sino mensajes cifrados transmitidos por personas o entidades sin identificar.
 
 Pero cuando empezaba a vislumbrar una gran verdad, el mismo día que pretendía mostrarle a otros colegas los avances de mis descubrimientos, mi laboratorio sufrió un desgraciado accidente y fue arrasado por un misterioso incendio en el que perdí todo. Por suerte se pudo recuperar mi novela más preciada —un ejemplar firmado de _Moby Dick_, regalo de mi madre— y las gafas de trabajo de mi padre, que usaba yo.
 
@@ -20,7 +20,7 @@ En cierto modo estaba enloqueciendo, rechazado por los míos y, en segunda insta
 
 Traicionado y dolido mi cabeza comenzó a convertirse en una marea de conspiraciones y paranoia ¿Quién estaba detrás de todo aquello? Con algo más de fuerza, continué buscando financiación para mi investigación.
 
-Me encontraba ya a las puertas de ser expulsado de mi comunidad científica cuando, en una reunión en el club, donde diversos filántropos se reunían con científicos e ingenieros para decidir donde pondrían su dinero en la próxima temporada, donde conocí a [[Sophia Lenague]].
+Dos años después, me encontraba ya a las puertas de ser expulsado de mi comunidad científica cuando, en una reunión en el club, donde diversos filántropos se reunían con científicos e ingenieros para decidir donde pondrían su dinero en la próxima temporada, donde conocí a [[Sophia Lenague]].
 
 Era una mujer elegante, distante y con un tono pálido en la piel como la luna misma. Fue la única que se me acercó aquella noche. Ya hacía diversas reuniones en las que todo el mundo parecía preferir hacer ver como que no existía.
 
