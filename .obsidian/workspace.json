@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🩸 Coterie/Dante Voss/Cronología/Cronología.md",
+                "file": "zz_assets/timeline/crono-data.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Cronología"
+              "title": "crono-data"
             }
           }
         ]
@@ -192,11 +192,12 @@
       "timelines-revamped:Insert Timeline Event (Frontmatter)": false
     }
   },
-  "active": "31184680071b504b",
+  "active": "43186cde743d8411",
   "lastOpenFiles": [
-    "zz_assets/timeline",
+    "🩸 Coterie/Dante Voss/Cronología.md",
     "zz_assets/timeline/crono-data.md",
     "🩸 Coterie/Dante Voss/Cronología/Cronología.md",
+    "zz_assets/timeline",
     "🩸 Coterie/Dante Voss/Cronología/Abrazo.md",
     "🩸 Coterie/Dante Voss/🕯️ Backstory.md",
     "Documentos/DanteVoss_Cuestionario INACAB.pdf",
@@ -230,7 +231,6 @@
     "zz_assets/images/Dante_Voss_avatar.png",
     "Dante Voss 1.md",
     "zz_scripts/WoDCharsheets-es.js",
-    "Documentos/Cuestionario INACAB.pdf",
     "zz_assets/images/Dante_Voss_token.png",
     "zz_assets/images/Dante_Voss.png",
     "zz_assets/Dante_Voss.png",
