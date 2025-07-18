@@ -4,17 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "1722ac76ce541e80",
+        "id": "75a06a9ea7dd4839",
         "type": "tabs",
         "children": [
           {
-            "id": "7834e91f546fa1d1",
+            "id": "5eb39c986f57ad2d",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "type": "pdf",
+              "state": {
+                "file": "🩸 Coterie/Dante Voss/Cuestionario INACAB.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Cuestionario INACAB"
             }
           }
         ]
@@ -188,8 +190,9 @@
       "timelines-revamped:Insert Timeline Event (Frontmatter)": false
     }
   },
-  "active": "7834e91f546fa1d1",
+  "active": "31184680071b504b",
   "lastOpenFiles": [
+    "🩸 Coterie/Dante Voss/Ficha.pdf",
     "🩸 Coterie/🩸 Coterie.md",
     "🩸 Coterie/Ataulfo Trevijano.md",
     "🩸 Coterie/Pure M Gavin.md",
@@ -217,7 +220,7 @@
     "🩸 Coterie/Dante Voss/Cronología/Cronología.md",
     "zz_assets/timeline",
     "🩸 Coterie/Dante Voss/Cronología/Abrazo.md",
-    "Documentos/DanteVoss_Cuestionario INACAB.pdf",
+    "🩸 Coterie/Dante Voss/Cuestionario INACAB.pdf",
     "🎭 El Resto/Zoë Wallace.md",
     "Sesiones/Sesión 0.5.md",
     "Sesiones/Sesión 1 - Rags To Riches.md",
@@ -232,7 +235,6 @@
     "🎭 El Resto/🎭 El Resto.md",
     "🕸️ Redes & Círculos/🕸️ Redes & Círculos.md",
     "zz_assets/templates/Plantilla PJ.md",
-    "zz_assets/templates/Plantilla Organización.md",
     "zz_assets/images/Dante_Voss_avatar.png",
     "zz_assets/images/Dante_Voss_token.png",
     "zz_assets/images/Dante_Voss.png"
