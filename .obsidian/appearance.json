@@ -2,5 +2,6 @@
   "enabledCssSnippets": [
     "world-of-darkness-statblocks",
     "timeline-snippet"
-  ]
+  ],
+  "accentColor": "#7b1e1e"
 }
