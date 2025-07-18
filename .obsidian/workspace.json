@@ -187,11 +187,15 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "obsidian-git:Open Git source control": false,
-      "obsidian-5e-statblocks:Open Creature pane": false
+      "obsidian-5e-statblocks:Open Creature pane": false,
+      "timelines-revamped:Insert Timeline Event": false,
+      "timelines-revamped:Insert Timeline Event (Frontmatter)": false
     }
   },
   "active": "6a741cd37e1c0a6d",
   "lastOpenFiles": [
+    "zz_assets/timeline/crono-data.md",
+    "🩸 Coterie/Dante Voss/Cronología.md",
     "🩸 Coterie/🩸 Coterie.md",
     "🩸 Coterie/Dante Voss/Dante Voss.md",
     "🩸 Coterie/Dante Voss/📜 Fragmentos de mi memoria.md",
@@ -211,8 +215,6 @@
     "zz_assets/images/clan_logo",
     "zz_assets/images/Nueva carpeta (2)",
     "zz_assets/images/Nueva carpeta",
-    "🩸 Coterie/Dante Voss/Cronología.md",
-    "zz_assets/timeline/crono-data.md",
     "🩸 Coterie/Dante Voss/Cronología/Cronología.md",
     "zz_assets/timeline",
     "🩸 Coterie/Dante Voss/Cronología/Abrazo.md",
