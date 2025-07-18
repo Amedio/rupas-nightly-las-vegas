@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "be508d6c94771d4f",
+        "id": "75fc446dc20ce816",
         "type": "tabs",
         "children": [
           {
-            "id": "ac04c57f50aa31fa",
+            "id": "6a741cd37e1c0a6d",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -190,10 +190,13 @@
       "obsidian-5e-statblocks:Open Creature pane": false
     }
   },
-  "active": "ac04c57f50aa31fa",
+  "active": "6a741cd37e1c0a6d",
   "lastOpenFiles": [
-    "zz_assets/images/clan_logo/malkavian.png",
     "🩸 Coterie/🩸 Coterie.md",
+    "zz_assets/images/clan_logo/malkavian.jpeg",
+    "zz_assets/images/clan_logo/malkavian.jpeg.crdownload",
+    "🩸 Coterie/Dante Voss/Dante Voss.md",
+    "zz_assets/images/clan_logo/malkavian.png",
     "zz_assets/images/clan_logo/malkavian.png.crdownload",
     "zz_assets/images/clan_logo",
     "zz_assets/images/Nueva carpeta (2)",
@@ -206,7 +209,6 @@
     "🩸 Coterie/Dante Voss/Cronología/Abrazo.md",
     "Documentos/DanteVoss_Cuestionario INACAB.pdf",
     "🩸 Coterie/Dante Voss/Cronología",
-    "🩸 Coterie/Dante Voss/Dante Voss.md",
     "🎭 El Resto/Zoë Wallace.md",
     "Sesiones/Sesión 0.5.md",
     "Sesiones/Sesión 1 - Rags To Riches.md",
@@ -227,7 +229,6 @@
     "zz_assets/templates",
     "🕸️ Redes & Círculos/La Organización.md",
     "🕸️ Redes & Círculos/Whisper Grid.md",
-    "🕸️ Redes & Círculos",
     "zz_assets/images/Dante_Voss_avatar.png",
     "zz_assets/images/Dante_Voss_token.png",
     "zz_assets/images/Dante_Voss.png",
