@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "0395587e13a5ccb0",
+        "id": "be508d6c94771d4f",
         "type": "tabs",
         "children": [
           {
-            "id": "ab36a1df855dbe0b",
+            "id": "ac04c57f50aa31fa",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "🩸 Coterie/🩸 Coterie.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "🩸 Coterie"
             }
           }
         ]
@@ -186,8 +190,14 @@
       "obsidian-5e-statblocks:Open Creature pane": false
     }
   },
-  "active": "ab36a1df855dbe0b",
+  "active": "ac04c57f50aa31fa",
   "lastOpenFiles": [
+    "zz_assets/images/clan_logo/malkavian.png",
+    "🩸 Coterie/🩸 Coterie.md",
+    "zz_assets/images/clan_logo/malkavian.png.crdownload",
+    "zz_assets/images/clan_logo",
+    "zz_assets/images/Nueva carpeta (2)",
+    "zz_assets/images/Nueva carpeta",
     "🩸 Coterie/Dante Voss/Cronología.md",
     "zz_assets/timeline/crono-data.md",
     "🩸 Coterie/Dante Voss/🕯️ Backstory.md",
@@ -202,7 +212,6 @@
     "Sesiones/Sesión 1 - Rags To Riches.md",
     "zz_assets/templates/Plantilla Sesión.md",
     "Sesiones",
-    "🩸 Coterie/🩸 Coterie.md",
     "🎭 El Resto/Sophia Lenague.md",
     "🎭 El Resto/Nathaniel Voss.md",
     "🎭 El Resto/Eleanor Whitford Voss.md",
@@ -219,11 +228,7 @@
     "🕸️ Redes & Círculos/La Organización.md",
     "🕸️ Redes & Círculos/Whisper Grid.md",
     "🕸️ Redes & Círculos",
-    "🎭 El Resto",
-    "🩸 Coterie",
-    "🩸 Coterie/Dante Voss",
     "zz_assets/images/Dante_Voss_avatar.png",
-    "zz_scripts/WoDCharsheets-es.js",
     "zz_assets/images/Dante_Voss_token.png",
     "zz_assets/images/Dante_Voss.png",
     "zz_assets/Dante_Voss.png",
