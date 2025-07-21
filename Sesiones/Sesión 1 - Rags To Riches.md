@@ -28,4 +28,16 @@ Arena, fichas, luces de neón y un tráfico incesante de viajeros envuelven la n
 - Visionamos el DVD:
 	- Cámara de seguridad muy pixelada
 	- Vehículo grande del que salen dos individuos
-	- Se acercan a un hom
+	- Se acercan a un hombre
+	- Hablan con el y le tapan la cara
+	- Lo meten en el vehículo
+	- La víctima va vestida de calle, delgada y con el pelo corto
+	- Uno de los secuestradores viste de chándal
+	- El otro secuestrador viste más de calle
+	- La hora en la que sucede la grabación es entre las 20:30 y las 21:00
+- Revisamos el dosier para más datos:
+	- Está fechado a 31 de enero de 2023
+	- Dice que los hechos suceden el 30 de enero, el día antes
+	- El lugar donde sucede todo es en Parkview Square, en un aparcamiento cerca de un centro comercial, sin cámaras municipales
+	- El vehículo es un SUV gris sin matricula y vidrios polarizados
+	- 
