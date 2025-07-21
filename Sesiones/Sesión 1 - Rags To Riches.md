@@ -89,4 +89,17 @@ Arena, fichas, luces de neón y un tráfico incesante de viajeros envuelven la n
 			- Es un despacho con una decoración art noveau que huele a piscina
 			- Hay un hombre que habla por teléfono en alemán
 			- Se refieren a el como [[Nick Clèment]]
-			- Al dirigirse a nosotros habla con un perfecto ing
+			- Al dirigirse a nosotros habla con un perfecto inglés con acento de Boston
+			- Le menciona a Ataulfo que necesita algo para una cena, parece que están hablando de bebida (Sangre o vino?¿)
+			- Sus requerimientos son que no debe contener más de dos perfiles
+			- Dice que hace poco que está en Las Vegas que su anterior destino fue California
+			- Habla Alemán, Euskera, Español...
+			- Dice que van a pasar su libro a una película
+			- Le hacen entrega a Ataulfo de una tarjeta de crédito para que gaste para conseguir su objetivo, preparar una cata de su material para el viernes (es lunes)
+- De camino al almacén reviso de nuevo el diario
+	- Hay algunos fragmentos escritos en francés
+		- París 1886
+		- París 20/12/1887
+		- París
+	- Aparece otra foto en el diario de la misma mujer de la foto anterior con un niño
+	- Logramos descifrar el contenido de un texto que se re
