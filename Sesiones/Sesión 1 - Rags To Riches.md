@@ -26,7 +26,7 @@ En la habitación asignada, revisamos el contenido del DVD. Una grabación de c�
 El dosier confirmó los hechos: Parkview Square, 30 de enero. La víctima: 30 años, 5’2”, complexión delgada, cabello negro corto. El dosier incluía también varias fotos borrosas, tickets de supermercados y restaurantes en varios idiomas, una foto de una mujer joven de piel morena, maquillada, vestida con un atuendo clásico frente al Taj Mahal. _Demasiadas piezas, todavía sin forma._
 
 Interrumpieron nuestra revisión: llamaron a la puerta.  
-Gavin quiso apostar quién sería. Gaueko abrió.  
+[[Pure M Gavin|Gavin]] quiso apostar quién sería. [[Gaueko]] abrió.  
 Dos figuras nos esperaban: un hombre corpulento con una cuquera, [[Ferat]], y una mujer, [[Aminah Kamis]], de acento extraño. Se presentó como antropóloga.  
 Venían por lo mismo que nosotros. Dijeron que los secuestradores formaban parte de una operación mayor, que estaban tras un artefacto en posesión de la víctima. Aminah nos entregó un diario: gastado, con notas y hojas añadidas, algunas en francés, otras cifradas. _Un rompecabezas dentro del rompecabezas._  
 Nos advirtieron, o quizás sugirieron, que hiciéramos bien en encontrar a quien debíamos.
@@ -34,17 +34,24 @@ Nos advirtieron, o quizás sugirieron, que hiciéramos bien en encontrar a quien
 Cuando se marcharon, continuamos revisando el material. Entre los tickets destacaba uno del TESCO, viejo, con una lista absurda: chocolate negro con pistacho, filete de ternera de 500g, compresas, limones. _Quizá una pista. Quizá nada._  
 La foto de la mujer frente al Taj Mahal seguía flotando en mi mente.
 
-Antes de nada, [[Ataúlfo]] insistió en atender un asunto personal en el Bellagio. Durante el trayecto descubrí el destinatario de su carta: Rebeca Stuart. Una simple misiva, sin demasiados detalles. Pero nada en esta ciudad es realmente “simple”.
+Antes de nada, [[Ataúlfo Trevijano|Ataúlfo]] insistió en atender un asunto personal en el [[Bellagio]]. Durante el trayecto descubrí el destinatario de su carta: [[Rebeca Stuart]]. Una simple misiva, sin demasiados detalles. Pero nada en esta ciudad es realmente “simple”.
 
-El Bellagio estaba inundado de carteles para la presentación del libro _Los Hijos de Puta_, de N. Clèment. Tras una breve llamada a Rebeca, nos invitaron a subir a la planta 27. No era una planta normal, sino una de esas reservadas a negocios discretos.  
+El Bellagio estaba inundado de carteles para la presentación del libro _Los Hijos de Puta_, de [[Nick Clèment|N. Clèment]]. Tras una breve llamada a Rebeca, nos invitaron a subir a la planta 27. No era una planta normal, sino una de esas reservadas a negocios discretos.  
 Un largo pasillo custodiado por personal de seguridad nos condujo a una mujer de poco más de treinta, que se presentó como Rebeca Stuart. Tomó notas en su carpeta mientras nos recibía y nos hizo pasar a una sala decorada en un decadente art nouveau que olía a piscina.  
-Allí, un hombre hablaba en alemán por teléfono. Cuando se volvió hacia nosotros, habló con un perfecto inglés con acento de Boston. Era Nick Clèment.  
+Allí, un hombre hablaba en alemán por teléfono. Cuando se volvió hacia nosotros, habló con un perfecto inglés con acento de Boston. Era [[Nick Clèment]].  
 Pidió a Ataúlfo organizarle una cata para la cena que daría el viernes. Un encargo curioso: solo dos perfiles, sin excesos. Dijo haber llegado a Las Vegas desde California. Mencionó que su novela iba a ser llevada al cine. Hablaba alemán, euskera, español…  
 Nos entregaron una tarjeta de crédito para gastos y nos despidieron.
 
 De camino al almacén que le habían cedido a Ataúlfo, revisé de nuevo el diario.  
 Algunas entradas estaban fechadas en París: 1886, 1887. También había una foto de la misma mujer morena, esta vez con un niño a su lado.  
 Entre las notas cifradas hallamos finalmente un mensaje que se dejó descifrar: coordenadas de trincheras y turnos de guardia en la frontera francobelga.
+## Personajes encontrados
+- [[Geoffrey Montrose]]
+- [[Rick Montoya]]
+- [[Aminah Kamis]]
+- [[Ferat]]
+- [[Rebeca Stuart]]
+- [[Nick Clèment]]
 ## Audio de sesión
 
 ![[info]]
