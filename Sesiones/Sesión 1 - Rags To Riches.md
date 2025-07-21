@@ -52,4 +52,25 @@ Arena, fichas, luces de neón y un tráfico incesante de viajeros envuelven la n
 		- Dos figuras están esperando a que la puerta se abra
 			- El hombre lleva una cuquera y la mujer a la que acompaña lo presenta como Ferat, es hombre de pocas palabras
 			- La mujer se presenta como Aminah Kamis, tiene un acento extraño y dice ser antropóloga
-		- Dicen estar buscando 
+		- Dicen estar buscando a los secuestradores que nos han mandado buscar
+		- Son Assamitas
+		- Nos tiende un diario que toma Gaeuko, este parece viejo, aunque no antiguo y está muy usado, con notas y hojas añadidas
+		- Dicen que el dueño del diario está involucrado en diversas actividades
+		- El secuestro forma parte de una operación mayor
+		- Revelan que buscan un artefacto que tiene el dueño del diario
+		- Creo que podría preguntar a la Arpía de la ciudad, pero sé bien que es aquella que se dedica a los cotilleos así que no sé si es demasiado seguro hacerlo
+		- Los Assamitas se van
+	- Comprobamos el dosier
+		- Hay un ticket del TESCO de hace año y medio o dos años con una lista de la compra
+			- Chocolate negro con pistacho
+			- Filete de ternera de 500g
+			- Compresas extra
+			- Malla de limones
+		- Hay más tickets en diversos idiomas
+		- Sugiero que podríamos trazar el rastro que va dejando con los tickets
+		- Hay una foto también con una mujer joven muy maquillada
+			- piel morena
+			- delgada
+			- baja
+			- pelo negro largo
+			- posa en una 
