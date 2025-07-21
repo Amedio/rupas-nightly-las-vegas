@@ -1,0 +1,16 @@
+{
+  "dragWithCtrl": "default",
+  "dragWithShift": "InlineLinkRelativeToHome",
+  "dragWithCtrlShift": "EmbedRelativeToHome",
+  "enableDragAndDrop": true,
+  "virtualDirectories": {
+    "drive": {}
+  },
+  "devices": {
+    "a7cbb4f0-4b10-4c9f-a9a9-c9bafca25389": {
+      "uuid": "a7cbb4f0-4b10-4c9f-a9a9-c9bafca25389",
+      "name": "DESKTOP-43RSELA",
+      "os": "win32"
+    }
+  }
+}
