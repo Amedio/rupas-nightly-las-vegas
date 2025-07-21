@@ -73,4 +73,20 @@ Arena, fichas, luces de neón y un tráfico incesante de viajeros envuelven la n
 			- delgada
 			- baja
 			- pelo negro largo
-			- posa en una 
+			- posa en una barandilla con el Taj Majhal de fondo
+			- lleva un vestido clásico
+			- parece una foto reciente
+	- [[Ataulfo Trevijano|Ataulfo]] sugiere ir al [[Bellagio]] a atender un asunto personal antes de todo lo demás. De camino, averiguo con quien va a reunirse cuando saca una carta. La persona se llama [[Rebeca Stuart]], pero no hay muchos más detalles parece más una misiva informal.
+- Entramos al [[Bellagio]]
+	- El hotel está repleto de cárteles anunciando una presentación de un libro, "Los Hijos de Puta" de [[Nick Clèment|N. Clèment]] 
+	- Llama Gaeuko a la tal [[Rebeca Stuart]] y nos invita a subir a la planta 27
+	- Llegamos a dicha planta
+		- No es una planta de hotel al uso, sino una de esas plantas que se pueden alquilar enteras para negocios
+		- Llegamos a un pasillo largo lleno de personal de seguridad
+		- Aparece una mujer de unos treinta y pico de años que se presenta como [[Rebeca Stuart]]
+		- Nos recibe y apunta cosas en su carpeta
+		- Nos hace pasar a la sala al final del pasillo
+			- Es un despacho con una decoración art noveau que huele a piscina
+			- Hay un hombre que habla por teléfono en alemán
+			- Se refieren a el como [[Nick Clèment]]
+			- Al dirigirse a nosotros habla con un perfecto ing
