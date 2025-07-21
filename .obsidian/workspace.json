@@ -11,12 +11,14 @@
             "id": "5eb39c986f57ad2d",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Documentos/FAR WEST BY NIGHT.pdf"
+                "file": "Sesiones/Sesión 1 - Rags To Riches.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "FAR WEST BY NIGHT"
+              "icon": "lucide-file",
+              "title": "Sesión 1 - Rags To Riches"
             }
           }
         ]
@@ -192,6 +194,7 @@
   },
   "active": "5eb39c986f57ad2d",
   "lastOpenFiles": [
+    "Documentos/FAR WEST BY NIGHT.pdf",
     "🩸 Coterie/Dante Voss/Cuestionario INACAB.pdf",
     "🩸 Coterie/Dante Voss/Ficha.pdf",
     "🩸 Coterie/🩸 Coterie.md",
@@ -219,7 +222,6 @@
     "zz_assets/images/Nueva carpeta (2)",
     "zz_assets/images/Nueva carpeta",
     "🩸 Coterie/Dante Voss/Cronología/Cronología.md",
-    "zz_assets/timeline",
     "🩸 Coterie/Dante Voss/Cronología/Abrazo.md",
     "🎭 El Resto/Zoë Wallace.md",
     "Sesiones/Sesión 0.5.md",
