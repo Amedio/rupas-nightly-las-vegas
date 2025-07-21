@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "75a06a9ea7dd4839",
+        "id": "8660f1da55c3c43f",
         "type": "tabs",
         "children": [
           {
-            "id": "5eb39c986f57ad2d",
+            "id": "29e199eac8004f71",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sesiones/Sesión 1 - Rags To Riches.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Sesión 1 - Rags To Riches"
+              "title": "New tab"
             }
           }
         ]
@@ -189,11 +185,14 @@
       "obsidian-git:Open Git source control": false,
       "obsidian-5e-statblocks:Open Creature pane": false,
       "timelines-revamped:Insert Timeline Event": false,
-      "timelines-revamped:Insert Timeline Event (Frontmatter)": false
+      "timelines-revamped:Insert Timeline Event (Frontmatter)": false,
+      "media-extended:Open media": false
     }
   },
-  "active": "5eb39c986f57ad2d",
+  "active": "29e199eac8004f71",
   "lastOpenFiles": [
+    "Sesiones/Sesión 1 - Rags To Riches.md",
+    "Sesiones/Sesión 0.5.md",
     "zz_assets/external",
     "zz_assets/Nueva carpeta",
     "Documentos/FAR WEST BY NIGHT.pdf",
@@ -220,12 +219,9 @@
     "zz_assets/images/clan_logo/malkavian.jpeg.crdownload",
     "zz_assets/images/clan_logo/malkavian.png",
     "zz_assets/images/clan_logo/malkavian.png.crdownload",
-    "zz_assets/images/clan_logo",
     "🩸 Coterie/Dante Voss/Cronología/Cronología.md",
     "🩸 Coterie/Dante Voss/Cronología/Abrazo.md",
     "🎭 El Resto/Zoë Wallace.md",
-    "Sesiones/Sesión 0.5.md",
-    "Sesiones/Sesión 1 - Rags To Riches.md",
     "zz_assets/templates/Plantilla Sesión.md",
     "🎭 El Resto/Sophia Lenague.md",
     "🎭 El Resto/Nathaniel Voss.md",
