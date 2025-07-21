@@ -5,21 +5,21 @@ Arena, fichas, luces de neón y un tráfico incesante de viajeros envuelven la n
 ## Relato
 
 Esta noche comenzó con una carta.  
-Una carta extraña, con una invitación del propio [[Geoffrey Montrose|Sheriff Montrose]], que encontré en mi dominio días atrás. El remitente era inequívoco. No había lugar para rechazar la convocatoria, así que a la hora indicada me presenté en el MGM Grand.
+Una carta extraña, con una invitación del propio [[Geoffrey Montrose|Sheriff Montrose]], que encontré en mi dominio días atrás. El remitente era inequívoco. No había lugar para rechazar la convocatoria, así que a la hora indicada me presenté en el [[MGM Grand]].
 
 En el pasillo que conducía a la sala privada donde supuestamente había sido citado, ya esperaban otros tres. Los observé mientras aguardábamos:  
 Un joven musculoso, vestido de cuero y botas, con el cabello negro y largo.  
 Un anciano encorvado, con unas ropas tan extrañas que costaba mirarlo sin preguntarse de qué siglo había salido.  
 Y un hombre de mediana edad, discreto, que escribía sin parar en una libreta. Por pura curiosidad, logré leer lo que garabateaba: una página titulada _“Posibles apuestas”_ llena de lo que parecían tonterías, pero nada es tan simple.
 
-Finalmente, alguien nos llamó. Entramos en una sala insonorizada del restaurante Chandler. Allí nos esperaban el propio Sheriff Montrose, impecable, y un hombre mortal que más tarde fue presentado como Rick Montoya, de la policía de Las Vegas. Cuarenta y pocos, pelo oscuro, corto. Un profesional.
+Finalmente, alguien nos llamó. Entramos en una sala insonorizada del restaurante [[Chandler]]. Allí nos esperaban el propio [[Geoffrey Montrose|Sheriff Montrose]], impecable, y un hombre mortal que más tarde fue presentado como [[Rick Montoya]], de la policía de Las Vegas. Cuarenta y pocos, pelo oscuro, corto. Un profesional.
 
 Nos hicieron sentar. Montoya deslizó un dosier por la mesa mientras nos explicaban la situación: un individuo ha sido secuestrado. Debemos descubrir quiénes lo tomaron, dónde lo tienen y devolverlo con vida.  
 Nada menos.  
 Nos prometieron que la ciudad nos estaría en deuda, que habría también una recompensa individual para cada uno.  
 Las palabras, y las promesas, fueron pesadas con cuidado.
 
-Antes de marcharnos nos entregaron cuatro teléfonos de prepago, las llaves de sendas habitaciones en el propio MGM Grand, y un DVD.
+Antes de marcharnos nos entregaron cuatro teléfonos de prepago, las llaves de una habitación en el propio MGM Grand que deberíamos compartir, y un DVD.
 
 En la habitación asignada, revisamos el contenido del DVD. Una grabación de cámara de seguridad, pixelada, sucia, pero suficiente: un SUV gris sin matrícula y cristales tintados, dos hombres, uno en chándal y otro vestido de calle, acercándose a un tercero delgado, con el pelo corto. Lo taparon, lo metieron en el coche. Hora estimada: entre las 20:30 y las 21:00, el día anterior.
 
@@ -27,14 +27,14 @@ El dosier confirmó los hechos: Parkview Square, 30 de enero. La víctima: 30 a�
 
 Interrumpieron nuestra revisión: llamaron a la puerta.  
 Gavin quiso apostar quién sería. Gaueko abrió.  
-Dos figuras nos esperaban: un hombre corpulento con una cuquera, Ferat, y una mujer, Aminah Kamis, de acento extraño. Se presentó como antropóloga.  
+Dos figuras nos esperaban: un hombre corpulento con una cuquera, [[Ferat]], y una mujer, [[Aminah Kamis]], de acento extraño. Se presentó como antropóloga.  
 Venían por lo mismo que nosotros. Dijeron que los secuestradores formaban parte de una operación mayor, que estaban tras un artefacto en posesión de la víctima. Aminah nos entregó un diario: gastado, con notas y hojas añadidas, algunas en francés, otras cifradas. _Un rompecabezas dentro del rompecabezas._  
 Nos advirtieron, o quizás sugirieron, que hiciéramos bien en encontrar a quien debíamos.
 
 Cuando se marcharon, continuamos revisando el material. Entre los tickets destacaba uno del TESCO, viejo, con una lista absurda: chocolate negro con pistacho, filete de ternera de 500g, compresas, limones. _Quizá una pista. Quizá nada._  
 La foto de la mujer frente al Taj Mahal seguía flotando en mi mente.
 
-Antes de nada, Ataúlfo insistió en atender un asunto personal en el Bellagio. Durante el trayecto descubrí el destinatario de su carta: Rebeca Stuart. Una simple misiva, sin demasiados detalles. Pero nada en esta ciudad es realmente “simple”.
+Antes de nada, [[Ataúlfo]] insistió en atender un asunto personal en el Bellagio. Durante el trayecto descubrí el destinatario de su carta: Rebeca Stuart. Una simple misiva, sin demasiados detalles. Pero nada en esta ciudad es realmente “simple”.
 
 El Bellagio estaba inundado de carteles para la presentación del libro _Los Hijos de Puta_, de N. Clèment. Tras una breve llamada a Rebeca, nos invitaron a subir a la planta 27. No era una planta normal, sino una de esas reservadas a negocios discretos.  
 Un largo pasillo custodiado por personal de seguridad nos condujo a una mujer de poco más de treinta, que se presentó como Rebeca Stuart. Tomó notas en su carpeta mientras nos recibía y nos hizo pasar a una sala decorada en un decadente art nouveau que olía a piscina.  
@@ -118,7 +118,7 @@ Entre las notas cifradas hallamos finalmente un mensaje que se dejó descifrar: 
 			- posa en una barandilla con el Taj Majhal de fondo
 			- lleva un vestido clásico
 			- parece una foto reciente
-	- [[Ataulfo Trevijano|Ataulfo]] sugiere ir al [[Bellagio]] a atender un asunto personal antes de todo lo demás. De camino, averiguo con quien va a reunirse cuando saca una carta. La persona se llama [[Rebeca Stuart]], pero no hay muchos más detalles parece más una misiva informal.
+	- [[Ataúlfo Trevijano|Ataulfo]] sugiere ir al [[Bellagio]] a atender un asunto personal antes de todo lo demás. De camino, averiguo con quien va a reunirse cuando saca una carta. La persona se llama [[Rebeca Stuart]], pero no hay muchos más detalles parece más una misiva informal.
 - Entramos al [[Bellagio]]
 	- El hotel está repleto de cárteles anunciando una presentación de un libro, "Los Hijos de Puta" de [[Nick Clèment|N. Clèment]] 
 	- Llama Gaeuko a la tal [[Rebeca Stuart]] y nos invita a subir a la planta 27
