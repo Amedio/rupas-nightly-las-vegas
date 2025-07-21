@@ -11,10 +11,14 @@
             "id": "a45b0d4c00c51f84",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Sesiones/Sesión 1 - Rags To Riches.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Sesión 1 - Rags To Riches"
             }
           }
         ]
@@ -185,11 +189,10 @@
       "obsidian-git:Open Git source control": false,
       "obsidian-5e-statblocks:Open Creature pane": false,
       "timelines-revamped:Insert Timeline Event": false,
-      "timelines-revamped:Insert Timeline Event (Frontmatter)": false,
-      "media-extended:Open media": false
+      "timelines-revamped:Insert Timeline Event (Frontmatter)": false
     }
   },
-  "active": "cdb89a8ac2cabbf2",
+  "active": "a45b0d4c00c51f84",
   "lastOpenFiles": [
     "Sesiones/audios/Rags To Riches - 2025-07-18/info.md",
     "Sesiones/Sesión 1 - Rags To Riches.md",
