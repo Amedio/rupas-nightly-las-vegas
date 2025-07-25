@@ -11,10 +11,14 @@
             "id": "687d6b22cd82a6f5",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Sesiones/Sesión 2 - Whispers.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Sesión 2 - Whispers"
             }
           }
         ]
@@ -188,8 +192,9 @@
       "timelines-revamped:Insert Timeline Event (Frontmatter)": false
     }
   },
-  "active": "cdb89a8ac2cabbf2",
+  "active": "687d6b22cd82a6f5",
   "lastOpenFiles": [
+    "Sesiones/Sesión 2 - Whispers.md",
     "🎭 El Resto/🎭 El Resto.md",
     "Sesiones/Sesión 1 - Rags To Riches.md",
     "🎭 El Resto/Nick Clèment.md",
@@ -232,7 +237,6 @@
     "🎭 El Resto/Zoë Wallace.md",
     "zz_assets/templates/Plantilla Sesión.md",
     "🎭 El Resto/Sophia Lenague.md",
-    "🎭 El Resto/Nathaniel Voss.md",
     "zz_assets/images/Dante_Voss_avatar.png",
     "zz_assets/images/Dante_Voss_token.png",
     "zz_assets/images/Dante_Voss.png"
