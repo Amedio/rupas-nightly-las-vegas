@@ -12,7 +12,7 @@ tags:
 **🏷 Pronombres:** elle
 **👤 Alias / Apodo:** Spectre
 **📍 Origen:** Barcelona, España
-**👥 Raza / Condición:** Caucásicx
+**👥 Raza / Condición:** Europea
 **🎭 Rol / Ocupación:** Hacker creative y disruptive, activista digital
 **📅 Edad:** 26 años
 **🧑‍💻 Especialidad o habilidad destacada:** Ingeniería inversa, exploits imprevistos y creatividad para romper sistemas.
