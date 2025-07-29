@@ -28,6 +28,8 @@ No creo en coincidencias. No en mi mundo.
 ## Personajes encontrados
 
 [[Ellis Faye]]
+[[Zoë Wallace]]
+[[Markus Delgado]]
 ## Audio de sesión
 
 ![[Sesiones/audios/Whispers In The Glow - 2025-07-25/info|info]]
@@ -65,4 +67,14 @@ A veces permitimos a otros Clanes usar el sistema. No nos gusta hacerlo, pero a 
 		- Varios artículos incluyen fotos de Clèment tanto en interiores como en exteriores, las fotos de exteriores son siempre nocturnas
 		- Busco en la SchreckNet de los Nosferatu donde lo encuentro y confirmo que está localizado en Londres. Además, el último año se ha estado moviendo bastante por el mundo
 		- Menciono que es un vástago que habla con acento de Boston, pero es italiano, estudió en París, pero escribe como un inglés británico una novela que encaja muy bien con el estilo de novela norteamericana.
-		- Ataulfo apunta que habla también alemán, y también Gaueko menciona su uso del euskera - Gavin le ha pedido a Ellis que le desbloquee de tres webs de apuestas en las que está baneado. Ellis parece aceptar cuando Gavin le dice que quizá podría dañar a esas empresas. - Nos dirigimos a la sede de SpherRecords - Gavin y Gaueko llaman al interfono y los de seguridad, desde dentro les impiden la entrada - Nos dirigimos a los almacenes de Ataúlfo - Durante el camino Gaueko lee el contenido del libro de Clèment - El libro cuenta la historia de una familia italoamericana que vuelve a la Toscana para hacerse cargo del negocia familiar porque la abuela está próxima a morir - A pesar de estar ambientado en la Italia del siglo XX la temática es muy medieval, tratando temas bastante más antiguos que su ambientación - También incluye incesto que luego no es porque el protagonista y su hermana se descubre que no son hermanos en realidad. - Una vez en el almacén Ataúlfo se percata de que hay unas botellas de Versalles de 1886 que no están en los albaranes y que no deberían haberle llegado - Quizá haya cierta relación con el diario que nos dio la assamita, pues hay entradas fechadas de ese año
+		- Ataulfo apunta que habla también alemán, y también Gaueko menciona su uso del euskera
+	- Gavin le ha pedido a Ellis que le desbloquee de tres webs de apuestas en las que está baneado. Ellis parece aceptar cuando Gavin le dice que quizá podría dañar a esas empresas.
+- Nos dirigimos a la sede de SpherRecords
+	- Gavin y Gaueko llaman al interfono y los de seguridad, desde dentro les impiden la entrada
+- Nos dirigimos a los almacenes de Ataúlfo
+	- Durante el camino Gaueko lee el contenido del libro de Clèment
+		- El libro cuenta la historia de una familia italoamericana que vuelve a la Toscana para hacerse cargo del negocia familiar porque la abuela está próxima a morir
+		- A pesar de estar ambientado en la Italia del siglo XX la temática es muy medieval, tratando temas bastante más antiguos que su ambientación
+		- También incluye incesto que luego no es porque el protagonista y su hermana se descubre que no son hermanos en realidad.
+	- Una vez en el almacén Ataúlfo se percata de que hay unas botellas de Versalles de 1886 que no están en los albaranes y que no deberían haberle llegado
+	- Quizá haya cierta relación con el diario que nos dio la assamita, pues hay entradas fechadas de ese año
