@@ -54,7 +54,7 @@ Entre las notas cifradas hallamos finalmente un mensaje que se dejó descifrar: 
 - [[Nick Clèment]]
 ## Audio de sesión
 
-![[info]]
+![[Sesiones/audios/Rags To Riches - 2025-07-18/info|info]]
 ## Notas de sesión
 
 - El 1 de febrero de 2022, llego al [[MGM Grand]] tras haber recibido una extraña carta con una invitación del propio Sheriff [[Geoffrey Montrose]] en mi dominio.
