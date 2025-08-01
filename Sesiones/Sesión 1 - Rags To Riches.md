@@ -1,7 +1,3 @@
----
-calendar: 2025-07-11
----
-
 **Fecha:** 11/07/2025
 ## Evento en Discord
 
