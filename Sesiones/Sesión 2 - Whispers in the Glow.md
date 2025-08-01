@@ -2,6 +2,12 @@
 ## Evento en Discord
 
 El eco de los recientes movimientos aún resuena en las calles de Las Vegas. Tras los primeros encuentros, alianzas incómodas y secretos susurrados, las piezas comienzan a colocarse. ¿Quién marca el ritmo en esta ciudad de luces, y quién sólo baila al compás?
+## Personajes de la coterie
+
+- [[Ataúlfo Trevijano]]
+- [[Dante Voss]]
+- [[Gaueko]]
+- [[Pure M Gavin]]
 ## Relato
 
 El **1 de febrero de 2022** seguimos la pista hasta el [[parking de Parkview Square]]. Un lugar extraño para estar tan vacío, pero los coches caros descansaban como bestias dormidas bajo el hormigón. [[Ataúlfo Trevijano|Ataúlfo]], con su humor áspero, me advirtió en voz baja que no mirara demasiado a “su Mari Carmen”. No tengo ni idea de quién es “Mari Carmen”, pero en su tono quedó claro que era más amenaza que consejo.

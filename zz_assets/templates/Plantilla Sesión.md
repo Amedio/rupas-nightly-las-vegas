@@ -2,6 +2,9 @@
 ## Evento en Discord
 
 
+## Personajes de la coterie
+
+
 ## Relato
 
 

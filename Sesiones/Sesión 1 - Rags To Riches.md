@@ -2,6 +2,12 @@
 ## Evento en Discord
 
 Arena, fichas, luces de neón y un tráfico incesante de viajeros envuelven la noche en la ciudad que nunca duerme. Convocados por un misterioso solicitante con una aún más misteriosa solicitud, varios vástagos, algunos vecinos asentados y otros visitantes circunstanciales, se reúnen en uno de los salones del MGM Grand.
+## Personajes de la coterie
+
+- [[Ataúlfo Trevijano]]
+- [[Dante Voss]]
+- [[Gaueko]]
+- [[Pure M Gavin]]
 ## Relato
 
 Esta noche comenzó con una carta.  
