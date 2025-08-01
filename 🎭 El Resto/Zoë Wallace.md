@@ -6,6 +6,7 @@ tags:
   - hacker
   - whisper_grid
   - bestie
+  - PNJ
 ---
 > [!quote] *“Todos los sistemas sangran, solo hay que saber por dónde pinchar.”*
 ## 📃Información

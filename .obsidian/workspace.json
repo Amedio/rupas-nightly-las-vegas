@@ -4,82 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "7177afebf2e23251",
+        "id": "085f502fcc2457a3",
         "type": "tabs",
         "children": [
           {
-            "id": "46611d0c18f63791",
+            "id": "dece70f1f3f8e8a6",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "🎭 El Resto/Nathaniel Voss.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Nathaniel Voss"
-            },
-            "group": "4cdcb6c19013bc69"
-          }
-        ]
-      },
-      {
-        "id": "aa3c8fcc3805a948",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "571de383ba6dd6b9",
-            "type": "leaf",
-            "state": {
-              "type": "localgraph",
-              "state": {
-                "file": "🎭 El Resto/Nathaniel Voss.md",
-                "options": {
-                  "collapse-filter": true,
-                  "search": "",
-                  "localJumps": 1,
-                  "localBacklinks": true,
-                  "localForelinks": true,
-                  "localInterlinks": false,
-                  "showTags": false,
-                  "showAttachments": false,
-                  "hideUnresolved": false,
-                  "collapse-color-groups": true,
-                  "colorGroups": [
-                    {
-                      "query": "tag:#PJ  ",
-                      "color": {
-                        "a": 1,
-                        "rgb": 14701138
-                      }
-                    },
-                    {
-                      "query": "tag:#PNJ  ",
-                      "color": {
-                        "a": 1,
-                        "rgb": 14725458
-                      }
-                    }
-                  ],
-                  "collapse-display": true,
-                  "showArrow": false,
-                  "textFadeMultiplier": 0,
-                  "nodeSizeMultiplier": 1,
-                  "lineSizeMultiplier": 1,
-                  "collapse-forces": true,
-                  "centerStrength": 0.518713248970312,
-                  "repelStrength": 10,
-                  "linkStrength": 1,
-                  "linkDistance": 250,
-                  "scale": 1,
-                  "close": false
-                }
-              },
-              "icon": "lucide-git-fork",
-              "title": "Graph of Nathaniel Voss"
-            },
-            "group": "4cdcb6c19013bc69"
+              "title": "New tab"
+            }
           }
         ]
       }
@@ -232,7 +168,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -254,8 +190,19 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "46611d0c18f63791",
+  "active": "cdb89a8ac2cabbf2",
   "lastOpenFiles": [
+    "🕸️ Redes & Círculos/Whisper Grid.md",
+    "🕸️ Redes & Círculos/SpheRecords.md",
+    "🕸️ Redes & Círculos/SchreckNet.md",
+    "🕸️ Redes & Círculos/Lyon Networks.md",
+    "🕸️ Redes & Círculos/La Organización.md",
+    "🎭 El Resto/Syd.md",
+    "🎭 El Resto/Sophia Lenague.md",
+    "🎭 El Resto/Rick Montoya.md",
+    "🎭 El Resto/Rebeca Stuart.md",
+    "🎭 El Resto/Nick Clèment.md",
+    "🎭 El Resto/Nathaniel Voss.md",
     "🎭 El Resto/Markus Delgado.md",
     "🎭 El Resto/Harrison May.md",
     "🎭 El Resto/Geoffrey Montrose.md",
@@ -264,24 +211,13 @@
     "🎭 El Resto/Eleanor Whitford Voss.md",
     "🎭 El Resto/Edwin Cartdridge.md",
     "🎭 El Resto/Aminah Kamis.md",
+    "🎭 El Resto/Zoë Wallace.md",
     "zz_assets/templates/Plantilla PNJ.md",
     "Sesiones/Sesión 2 - Whispers in the Glow.md",
     "Sesiones/Sesión 3 - Shadows Over the Strip.md",
     "Sesiones/Sesión 1 - Rags To Riches.md",
     "zz_assets/templates/Plantilla Sesión.md",
     "🩸 Coterie/Dante Voss/🕯️ Backstory.md",
-    "🩸 Coterie/🩸 Coterie.md",
-    "🩸 Coterie/Pure M Gavin.md",
-    "🩸 Coterie/Gaueko.md",
-    "🩸 Coterie/Ataúlfo Trevijano.md",
-    "🩸 Coterie/Dante Voss/Dante Voss.md",
-    "zz_assets/templates/Plantilla PJ.md",
-    "🎭 El Resto/Zoë Wallace.md",
-    "🎭 El Resto/Rick Montoya.md",
-    "2025-07-11.md",
-    "2025-08-01.md",
-    "🕸️ Redes & Círculos/SchreckNet.md",
-    "🕸️ Redes & Círculos/SpheRecords.md",
     "Sesiones/audios/Whispers In The Glow - 2025-07-25/9WzgTdjkv73R_data/6-rub1dn.flac",
     "Sesiones/audios/Whispers In The Glow - 2025-07-25/9WzgTdjkv73R_data/5-amedio.flac",
     "Sesiones/audios/Whispers In The Glow - 2025-07-25/9WzgTdjkv73R_data/4-yespy.flac",
