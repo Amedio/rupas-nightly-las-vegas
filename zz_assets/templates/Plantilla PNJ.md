@@ -1,3 +1,11 @@
+---
+tipo: PNJ
+estirpe: 
+clan: 
+relacion: 
+profesion:
+---
+
 > [!quote] *“Frase o cita breve que resuma su carácter, lema, o una impresión que causa.”*
 ## 📃Información
 

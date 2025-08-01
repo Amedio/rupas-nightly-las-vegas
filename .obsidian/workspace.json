@@ -11,14 +11,10 @@
             "id": "313cc453d93cc5f5",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "🎭 El Resto/Aminah Kamis.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Aminah Kamis"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -196,6 +192,10 @@
   },
   "active": "313cc453d93cc5f5",
   "lastOpenFiles": [
+    "🎭 El Resto/Zoë Wallace.md",
+    "🎭 El Resto/Rick Montoya.md",
+    "zz_assets/templates/Plantilla PNJ.md",
+    "🎭 El Resto/Aminah Kamis.md",
     "Sesiones/Sesión 1 - Rags To Riches.md",
     "2025-07-11.md",
     "2025-08-01.md",
@@ -219,7 +219,6 @@
     "Sesiones/audios/Whispers In The Glow - 2025-07-25/Extract before opening!.txt",
     "Sesiones/audios/Whispers In The Glow - 2025-07-25/9WzgTdjkv73R_data",
     "🕸️ Redes & Círculos/Whisper Grid.md",
-    "🎭 El Resto/Zoë Wallace.md",
     "🎭 El Resto/Ellis Faye.md",
     "🩸 Coterie/Dante Voss/Dante Voss.md",
     "🩸 Coterie/Dante Voss/🕯️ Backstory.md",
@@ -231,9 +230,6 @@
     "🎭 El Resto/Nick Clèment.md",
     "🎭 El Resto/Rebeca Stuart.md",
     "🩸 Coterie/Pure M Gavin.md",
-    "🩸 Coterie/Ataúlfo Trevijano.md",
-    "🎭 El Resto/Aminah Kamis.md",
-    "🎭 El Resto/Ferat.md",
     "zz_assets/images/clan_logo/toreador.png",
     "zz_assets/images/clan_logo/toreador.webp",
     "zz_assets/images/clan_logo/ventrue.png",

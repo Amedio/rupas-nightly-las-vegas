@@ -6,6 +6,11 @@ tags:
   - hacker
   - whisper_grid
   - bestie
+tipo: PNJ
+estirpe: Mortal
+clan: 
+relacion: Rebaño
+profesion: Hacktivista
 ---
 > [!quote] *“Todos los sistemas sangran, solo hay que saber por dónde pinchar.”*
 ## 📃Información
