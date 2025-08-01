@@ -1,6 +1,8 @@
 ---
 aliases:
   - Dante
+tags:
+  - PJ
 ---
 ```dataviewjs
 dv.executeJs(await dv.io.load("/zz_scripts/WoDCharsheets-en.js"))

@@ -1,11 +1,11 @@
 {
   "showAttachments": false,
   "hideOrphans": true,
-  "showTags": true,
+  "showTags": false,
   "searchQuery": "",
   "groups": [
     {
-      "query": "",
+      "query": "PJ",
       "color": "#650606"
     }
   ],
@@ -16,7 +16,7 @@
   "colorLink": "#666666",
   "colorHighlight": "#FFB800",
   "backgroundColor": "#0E0E10",
-  "nodeSize": 1.5,
+  "nodeSize": 2.1,
   "tagNodeSize": 1,
   "attachmentNodeSize": 1.2,
   "linkThickness": 1,

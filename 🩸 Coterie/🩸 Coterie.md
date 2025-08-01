@@ -1,3 +1,6 @@
+---
+graph: "false"
+---
 # Índice de miembros
 
 <img src="nosferatu.png" width="14px" /> [[Ataúlfo Trevijano]]

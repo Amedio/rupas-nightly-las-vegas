@@ -1,3 +1,7 @@
+---
+graph: "false"
+---
+
 Nací un **14 de noviembre de 1879**, en **Boston, Massachusetts**, hijo de [[Nathaniel Voss]], un ingeniero ferroviario metódico y perfeccionista, y [[Eleanor Whitford Voss]], una cálida maestra de escuela primaria que me enseñó a leer antes incluso de pisar un aula.
 
 Mi infancia estuvo llena de libros, dibujos de locomotoras y mapas de líneas férreas. Siempre sentí una atracción inexplicable por los patrones, las conexiones invisibles entre las cosas. Mientras otros niños jugaban en la calle, yo me quedaba en casa resolviendo rompecabezas y desarmando aparatos para entender cómo funcionaban.
