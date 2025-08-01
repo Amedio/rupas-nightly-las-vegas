@@ -5,6 +5,7 @@ aliases:
 tags:
   - hacker
   - whisper_grid
+  - PNJ
 ---
 > [!quote] _“Cada bit cuenta. Y cada bit tiene dueño.”_
 ## 📃Información

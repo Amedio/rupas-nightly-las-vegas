@@ -4,6 +4,7 @@ aliases:
   - madre
 tags:
   - familia
+  - PNJ
 ---
 > [!quote] *“Un buen maestro no te da las respuestas. Te enseña a hacer las preguntas correctas.”*
 ## 📃Información

@@ -5,6 +5,7 @@ aliases:
 tags:
   - "#enemigo"
   - "#científico"
+  - PNJ
 ---
 > [!quote] *“...los que miramos demasiado profundo en la red… acabamos ahogándonos en ella.”*
 ## 📃Información

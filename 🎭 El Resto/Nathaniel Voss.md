@@ -5,6 +5,7 @@ aliases:
 tags:
   - familia
   - científico
+  - PNJ
 ---
 > [!quote] *“Las máquinas no mienten, hijo. Solo hay que aprender a escucharlas.”*
 ## 📃Información

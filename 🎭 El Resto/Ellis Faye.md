@@ -5,6 +5,7 @@ aliases:
 tags:
   - hacker
   - whisper_grid
+  - PNJ
 ---
 > [!quote] _“Nada es fijo. Todo puede ser desmontado, si sabes dónde tocar.”_
 ## 📃Información
