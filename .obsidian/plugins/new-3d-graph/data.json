@@ -3,7 +3,12 @@
   "hideOrphans": true,
   "showTags": true,
   "searchQuery": "",
-  "groups": [],
+  "groups": [
+    {
+      "query": "",
+      "color": "#650606"
+    }
+  ],
   "useThemeColors": true,
   "colorNode": "#2080F0",
   "colorTag": "#9A49E8",

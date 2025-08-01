@@ -21,14 +21,17 @@
             "id": "ea1b096d08bcf515",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "zz_assets/templates/Plantilla PJ.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Plantilla PJ"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -203,9 +206,9 @@
   },
   "active": "ea1b096d08bcf515",
   "lastOpenFiles": [
+    "zz_assets/templates/Plantilla PNJ.md",
     "🎭 El Resto/Zoë Wallace.md",
     "🎭 El Resto/Rick Montoya.md",
-    "zz_assets/templates/Plantilla PNJ.md",
     "🎭 El Resto/Aminah Kamis.md",
     "Sesiones/Sesión 1 - Rags To Riches.md",
     "2025-07-11.md",

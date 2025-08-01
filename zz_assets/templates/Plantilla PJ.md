@@ -1,3 +1,7 @@
+---
+tags:
+  - PJ
+---
 > *“Frase o cita breve que refleje su naturaleza, lema, o un rasgo clave.”*
 ## 👤 Alias / Apodo
 - {{Apodo, nombre en clave o mote.}}
