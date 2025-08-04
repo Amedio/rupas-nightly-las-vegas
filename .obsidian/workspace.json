@@ -179,15 +179,13 @@
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "obsidian-git:Open Git source control": false,
       "obsidian-5e-statblocks:Open Creature pane": false,
       "timelines-revamped:Insert Timeline Event": false,
       "timelines-revamped:Insert Timeline Event (Frontmatter)": false,
-      "new-3d-graph:Open 3d graph": false,
-      "obsidian-full-calendar:Open Full Calendar": false
+      "new-3d-graph:Open 3d graph": false
     }
   },
   "active": "cdb89a8ac2cabbf2",
