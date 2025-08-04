@@ -1,3 +1,5 @@
+https://drive.google.com/file/d/1BZmxR0Rdra0MRkLcfw6nMXbxgYd_BVnZ/view?usp=drive_link
+
 Recording 2lpf9hnWC9-WN8pp_tW1F-3n2X99RK
 
 Guild:		Rol Rupas (1208172386709409822)
