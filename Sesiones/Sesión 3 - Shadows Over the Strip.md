@@ -17,6 +17,6 @@ La investigación del secuestro los lleva del lujo del MGM Grand a los rincones 
 
 ## Audio de sesión
 
-
+![[Sesiones/audios/03 - Shadows Over the Strip - 2025-08-01/info|info]]
 ## Notas de sesión
 
