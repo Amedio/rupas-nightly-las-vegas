@@ -34,7 +34,7 @@ El dosier confirmó los hechos: Parkview Square, 30 de enero. La víctima: 30 a�
 Interrumpieron nuestra revisión: llamaron a la puerta.  
 [[Pure M Gavin|Gavin]] quiso apostar quién sería. [[Gaueko]] abrió.  
 Dos figuras nos esperaban: un hombre corpulento con una cuquera, [[Ferat]], y una mujer, [[Aminah Kamis]], de acento extraño. Se presentó como antropóloga.  
-Venían por lo mismo que nosotros. Dijeron que los secuestradores formaban parte de una operación mayor, que estaban tras un artefacto en posesión de la víctima. Aminah nos entregó un diario: gastado, con notas y hojas añadidas, algunas en francés, otras cifradas. _Un rompecabezas dentro del rompecabezas._  
+Venían por lo mismo que nosotros. Dijeron que los secuestradores formaban parte de una operación mayor, que estaban tras un artefacto en posesión de la víctima. Aminah nos entregó un [[Diario de persona desconocida|diario]]: gastado, con notas y hojas añadidas, algunas en francés, otras cifradas. _Un rompecabezas dentro del rompecabezas._  
 Nos advirtieron, o quizás sugirieron, que hiciéramos bien en encontrar a quien debíamos.
 
 Cuando se marcharon, continuamos revisando el material. Entre los tickets destacaba uno del TESCO, viejo, con una lista absurda: chocolate negro con pistacho, filete de ternera de 500g, compresas, limones. _Quizá una pista. Quizá nada._  

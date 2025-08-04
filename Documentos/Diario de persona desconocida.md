@@ -1,3 +1,7 @@
+---
+aliases:
+  - diario
+---
 Entregado por [[Aminah Kamis]] en la primera noche en el [[MGM Grand]]
 ## Cosas descubiertas
 
@@ -19,15 +23,17 @@ Hélené por fin parece sentirse más a gusto en la casa. Se sintió aliviada cu
 Todo esto me ha hecho pensar en Françoise, pese a que hace décadas que ya no visto nuestras alianzas. Que afortunado fui de compartir algo tan puro, tan hermoso y tan justo que, tantos años después y cuando el dolor y las lágrimas ya no improntan mi memoria, me hace sonreír. Espero que el verme cuidar de un saco de huesos llorica, enfermo y dependiente le hiciese la gracia que a mi desde luego no me hace.
 
 Lo que si que me haría gracia es que desmembrasen a mi hermana y tirasen sus trozos al mar.
-    
-3. _[_13:04_]_
-    
-### París, 7 de Marzo de 1888,
-    
-    16,8 kg - 111cm El niño sufre algún tipo de imbecilidad. En un cómico giro del destino, el niño que vive en mi pequeño santuario humanista no es capaz de distinguir letras, notas ni números, ni entre ellos ni de si mismos. Qué decepción. Albergaba la esperanza de que este pequeño y ridículo ser pudiese convertirse en una eminencia infantil, capaz de recitar, escribir poesía o leer partituras. Supongo que tendré que conformarme con que consiga quedarse sentado en una silla durante mis reuniones sociales. Ahora que lo pienso, ¿sería esto lo que sintió Edgar las 35 primeras veces que me caí del caballo? Es absolutamente desagradable reconocerme en los patrones que tanto detesto en mi linaje. Pensaba que era mejor. No. Pensaba que ambos, Aneesh y yo, éramos mejores. Supongo que somos más de lo mismo. Espero que a mi también imbécil hermana le mordisqueen las ratas las orejas cuando vaya a descansar por las mañanas. No tan así el cerebro, porque claramente demuestra con los apuntes de cuentas que siguen llegando a este domicilio que carece de él. (editado)
-    
-4. _[_13:05_]_
-    
-    # París, 24 de Diciembre de 1889,
-    
-    22kg - 118cm Es un milagro Navideño. No puede ser de otro modo. Al volver de la _vigilia nativitatis_, Aneesh me ha leído. Su dedito tembloroso pasaba por cada palabra de la página, como un tutor diminuto, mientras la voz raspada que le han dejado los catarros de esta temporada leía una tras otra las líneas _¿Cuánta tierra necesita un hombre?_. He de decir que me mostraba muy escéptico acerca del método que me propuso Andersen y pese a que me aseguró que le había funcionado a las mil maravillas, dudaba que tuviese algún impacto si quiera. Pero puedo decir con absoluta convicción que cada una de las muchas libras esterlinas que he gastado en hacer copias manuscritas de mi biblioteca han merecido completamente la pena. Un torrente de emociones han inundado mis ojos. Que curioso que sentimientos tan grandes como la alegría y el orgullo hayan entrado a esta casa a través de una cosa tan pequeña y mundana como la voz de un niño. Ojalá que mi hermana se atragante con la cena de Navidad.
+### París, 7 de Marzo de 1888
+
+16,8 kg - 111cm
+El niño sufre algún tipo de imbecilidad. En un cómico giro del destino, el niño que vive en mi pequeño santuario humanista no es capaz de distinguir letras, notas ni números, ni entre ellos ni de si mismos. Qué decepción.
+
+Albergaba la esperanza de que este pequeño y ridículo ser pudiese convertirse en una eminencia infantil, capaz de recitar, escribir poesía o leer partituras. Supongo que tendré que conformarme con que consiga quedarse sentado en una silla durante mis reuniones sociales. Ahora que lo pienso, ¿sería esto lo que sintió Edgar las 35 primeras veces que me caí del caballo? Es absolutamente desagradable reconocerme en los patrones que tanto detesto en mi linaje. Pensaba que era mejor. No. Pensaba que ambos, Aneesh y yo, éramos mejores. Supongo que somos más de lo mismo. Espero que a mi también imbécil hermana le mordisqueen las ratas las orejas cuando vaya a descansar por las mañanas. No tan así el cerebro, porque claramente demuestra con los apuntes de cuentas que siguen llegando a este domicilio que carece de él.
+### París, 24 de Diciembre de 1889,
+
+22kg - 118cm
+Es un milagro Navideño. No puede ser de otro modo. Al volver de la _vigilia nativitatis_, Aneesh me ha leído. Su dedito tembloroso pasaba por cada palabra de la página, como un tutor diminuto, mientras la voz raspada que le han dejado los catarros de esta temporada leía una tras otra las líneas _¿Cuánta tierra necesita un hombre?_.
+
+He de decir que me mostraba muy escéptico acerca del método que me propuso Andersen y pese a que me aseguró que le había funcionado a las mil maravillas, dudaba que tuviese algún impacto si quiera. Pero puedo decir con absoluta convicción que cada una de las muchas libras esterlinas que he gastado en hacer copias manuscritas de mi biblioteca han merecido completamente la pena. Un torrente de emociones han inundado mis ojos. Que curioso que sentimientos tan grandes como la alegría y el orgullo hayan entrado a esta casa a través de una cosa tan pequeña y mundana como la voz de un niño.
+
+Ojalá que mi hermana se atragante con la cena de Navidad.
