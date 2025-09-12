@@ -26,3 +26,5 @@ Ve a Dante como una especie de figura paterna/materna a su manera, alguien a qui
 ## 📝 Notas adicionales
 
 Le gusta la ropa de segunda mano con parches y colores contradictorios, el cabello cambia de color cada par de meses, actualmente lleva un piercing en la ceja. Lleva siempre una libreta donde dibuja garabatos de códigos y símbolos extraños mientras conversa. 
+
+![[Firma_Ellis.png]]
