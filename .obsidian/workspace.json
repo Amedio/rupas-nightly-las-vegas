@@ -13,28 +13,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🎭 El Resto/🎭 El Resto.md",
+                "file": "Sesiones/Sesión 6 - The Devil in Disguise.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "🎭 El Resto"
-            }
-          },
-          {
-            "id": "2b7f48dcb819e776",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.9.12"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.9.12"
+              "title": "Sesión 6 - The Devil in Disguise"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -206,8 +193,10 @@
       "new-3d-graph:Open 3d graph": false
     }
   },
-  "active": "2b7f48dcb819e776",
+  "active": "54828cab7b3e0e24",
   "lastOpenFiles": [
+    "🎭 El Resto/🎭 El Resto.md",
+    "Sesiones/Sesión 6 - The Devil in Disguise.md",
     "🎭 El Resto/Geoffrey Montrose.md",
     "Sesiones/Sesión 1 - Rags To Riches.md",
     "🎭 El Resto/Aminah Kamis.md",
@@ -232,8 +221,6 @@
     "🕸️ Redes & Círculos/La Organización.md",
     "🎭 El Resto/Syd.md",
     "🎭 El Resto/Rebeca Stuart.md",
-    "🎭 El Resto/Nick Clèment.md",
-    "🎭 El Resto/Nathaniel Voss.md",
     "Sesiones/audios/Whispers In The Glow - 2025-07-25/9WzgTdjkv73R_data/6-rub1dn.flac",
     "Sesiones/audios/Whispers In The Glow - 2025-07-25/9WzgTdjkv73R_data/5-amedio.flac",
     "Sesiones/audios/Whispers In The Glow - 2025-07-25/9WzgTdjkv73R_data/4-yespy.flac",
