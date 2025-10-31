@@ -11,14 +11,17 @@
             "id": "54828cab7b3e0e24",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "🎭 El Resto/Ellis Faye.md",
-                "mode": "source",
-                "source": false
+                "file": "Sin título.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
+                }
               },
-              "icon": "lucide-file",
-              "title": "Ellis Faye"
+              "icon": "lucide-layout-dashboard",
+              "title": "Sin título"
             }
           }
         ]
@@ -195,10 +198,12 @@
   },
   "active": "54828cab7b3e0e24",
   "lastOpenFiles": [
+    "🕸️ Redes & Círculos/🕸️ Redes & Círculos.md",
+    "Sin título.canvas",
+    "🎭 El Resto/Ellis Faye.md",
     "🎭 El Resto/Nick Clèment.md",
     "🩸 Coterie/Dante Voss/🕯️ Backstory.md",
     "🩸 Coterie/Dante Voss/📜 Fragmentos de mi memoria.md",
-    "🎭 El Resto/Ellis Faye.md",
     "zz_assets/images/Firma_Ellis.png",
     "Sesiones/Sesión 6 - The Devil in Disguise.md",
     "🎭 El Resto/🎭 El Resto.md",
@@ -221,7 +226,6 @@
     "🕸️ Redes & Círculos/SchreckNet.md",
     "🕸️ Redes & Círculos/Lyon Networks.md",
     "🕸️ Redes & Círculos/La Organización.md",
-    "🎭 El Resto/Syd.md",
     "Sesiones/audios/Whispers In The Glow - 2025-07-25/9WzgTdjkv73R_data/6-rub1dn.flac",
     "Sesiones/audios/Whispers In The Glow - 2025-07-25/9WzgTdjkv73R_data/5-amedio.flac",
     "Sesiones/audios/Whispers In The Glow - 2025-07-25/9WzgTdjkv73R_data/4-yespy.flac",
