@@ -4,24 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "853102dd44951f53",
+        "id": "d7b4bc6ef3051ae5",
         "type": "tabs",
         "children": [
           {
-            "id": "54828cab7b3e0e24",
+            "id": "e93c72edd32b32dd",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "excalidraw",
               "state": {
-                "file": "Sin título.canvas",
-                "viewState": {
-                  "x": 0,
-                  "y": 0,
-                  "zoom": 0
-                }
+                "file": "El tablero.md"
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Sin título"
+              "icon": "excalidraw-icon",
+              "title": "El tablero"
             }
           }
         ]
@@ -193,13 +188,15 @@
       "obsidian-5e-statblocks:Open Creature pane": false,
       "timelines-revamped:Insert Timeline Event": false,
       "timelines-revamped:Insert Timeline Event (Frontmatter)": false,
-      "new-3d-graph:Open 3d graph": false
+      "new-3d-graph:Open 3d graph": false,
+      "obsidian-excalidraw-plugin:Nuevo Bosquejo": false
     }
   },
-  "active": "54828cab7b3e0e24",
+  "active": "31184680071b504b",
   "lastOpenFiles": [
-    "🕸️ Redes & Círculos/🕸️ Redes & Círculos.md",
+    "El tablero.md",
     "Sin título.canvas",
+    "🕸️ Redes & Círculos/🕸️ Redes & Círculos.md",
     "🎭 El Resto/Ellis Faye.md",
     "🎭 El Resto/Nick Clèment.md",
     "🩸 Coterie/Dante Voss/🕯️ Backstory.md",
@@ -225,7 +222,6 @@
     "🕸️ Redes & Círculos/SpheRecords.md",
     "🕸️ Redes & Círculos/SchreckNet.md",
     "🕸️ Redes & Círculos/Lyon Networks.md",
-    "🕸️ Redes & Círculos/La Organización.md",
     "Sesiones/audios/Whispers In The Glow - 2025-07-25/9WzgTdjkv73R_data/6-rub1dn.flac",
     "Sesiones/audios/Whispers In The Glow - 2025-07-25/9WzgTdjkv73R_data/5-amedio.flac",
     "Sesiones/audios/Whispers In The Glow - 2025-07-25/9WzgTdjkv73R_data/4-yespy.flac",
