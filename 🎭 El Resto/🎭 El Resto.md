@@ -10,6 +10,7 @@
 - [[Aminah Kamis]]: Assamita antropóloga
 - [[Ferat]]: Guardaespaldas de [[Aminah Kamis]]
 - [[Nick Clèment]]: Escritor de "Los Hijos de Puta"
+- [[El Principe de Las Vegas]]
 ## 🕸️ Rebaño
 - [[Zoë Wallace]]: Miembro de [[Whisper Grid]] y mejor amiga de [[Dante Voss]]
 - [[Markus Delgado]]: Miembro de [[Whisper Grid]]
