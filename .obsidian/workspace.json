@@ -37,12 +37,14 @@
             "id": "52331c0f0b59172c",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.10.3"
+                "file": "Sesiones/Sesión 12 - Second child of a second childe.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "Registro de cambios 1.10.3"
+              "icon": "lucide-file",
+              "title": "Sesión 12 - Second child of a second childe"
             }
           }
         ],
@@ -219,8 +221,9 @@
       "obsidian-excalidraw-plugin:Nuevo Bosquejo": false
     }
   },
-  "active": "b86333aae183ca82",
+  "active": "52331c0f0b59172c",
   "lastOpenFiles": [
+    "Sesiones/Sesión 12 - Second child of a second childe.md",
     "El tablero.md",
     "🎭 El Resto/El Principe de Las Vegas.md",
     "🎭 El Resto/🎭 El Resto.md",
@@ -248,7 +251,6 @@
     "Sesiones/audios/02 - Whispers In The Glow - 2025-07-25/info.md",
     "🕸️ Redes & Círculos/Whisper Grid.md",
     "🕸️ Redes & Círculos/SpheRecords.md",
-    "🕸️ Redes & Círculos/SchreckNet.md",
     "Sesiones/audios/Whispers In The Glow - 2025-07-25/9WzgTdjkv73R_data/6-rub1dn.flac",
     "Sesiones/audios/Whispers In The Glow - 2025-07-25/9WzgTdjkv73R_data/5-amedio.flac",
     "Sesiones/audios/Whispers In The Glow - 2025-07-25/9WzgTdjkv73R_data/4-yespy.flac",
