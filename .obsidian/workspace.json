@@ -32,9 +32,21 @@
               "icon": "excalidraw-icon",
               "title": "El tablero"
             }
+          },
+          {
+            "id": "52331c0f0b59172c",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.10.3"
+              },
+              "icon": "lucide-book-up",
+              "title": "Registro de cambios 1.10.3"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -207,7 +219,7 @@
       "obsidian-excalidraw-plugin:Nuevo Bosquejo": false
     }
   },
-  "active": "4242bfeb62244e5c",
+  "active": "b86333aae183ca82",
   "lastOpenFiles": [
     "El tablero.md",
     "🎭 El Resto/El Principe de Las Vegas.md",
