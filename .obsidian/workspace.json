@@ -46,9 +46,21 @@
               "icon": "lucide-file",
               "title": "🕯️ Backstory"
             }
+          },
+          {
+            "id": "0d71279aeb047a3c",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.12.4"
+              },
+              "icon": "lucide-book-up",
+              "title": "Registro de cambios 1.12.4"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -221,7 +233,7 @@
       "obsidian-excalidraw-plugin:Nuevo Bosquejo": false
     }
   },
-  "active": "52331c0f0b59172c",
+  "active": "0d71279aeb047a3c",
   "lastOpenFiles": [
     "🎭 El Resto/Ellis Faye.md",
     "Sesiones/Sesión 12 - Second child of a second childe.md",
