@@ -60,9 +60,21 @@
               "icon": "lucide-file",
               "title": "Ellis Faye"
             }
+          },
+          {
+            "id": "b537204c85fb4159",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.14.4"
+              },
+              "icon": "lucide-book-up",
+              "title": "Registro de cambios 1.14.4"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -237,7 +249,7 @@
       "obsidian-excalidraw-plugin:Nuevo Bosquejo": false
     }
   },
-  "active": "ea5be7c5b5fb40f6",
+  "active": "b537204c85fb4159",
   "lastOpenFiles": [
     "🎭 El Resto/Ellis Faye.md",
     "🩸 Coterie/Dante Voss/🕯️ Backstory.md",
